@@ -81,6 +81,8 @@
 <script src="<?php bloginfo('template_directory'); ?>/assets/jquery/jquery.min.js"></script>
 <!-- POPPER.js -->
 <script src="<?php bloginfo('template_directory'); ?>/assets/popper.js/popper.min.js"></script>
+<!-- BOOTSTRAP JS -->
+<script src="<?php bloginfo('template_directory'); ?>/assets/bootstrap/js/bootstrap.min.js"></script>
 </body>
 
 </html>

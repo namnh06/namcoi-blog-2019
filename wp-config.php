@@ -1,4 +1,5 @@
 <?php
+
 /**
  * The base configuration for WordPress
  *
@@ -17,7 +18,8 @@
  *
  * @package WordPress
  */
-
+/** IGNORE CONNECTION INFORMATION */
+define('FS_METHOD', 'direct');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'namcoi_blog_2019');
@@ -85,6 +87,7 @@ define('WP_DEBUG', false);
 if (!defined('ABSPATH')) {
     define('ABSPATH', dirname(__FILE__) . '/');
 }
+
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';

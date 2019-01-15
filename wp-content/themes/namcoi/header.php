@@ -31,6 +31,7 @@
 </head>
 
 <body <?php body_class(); ?>>
+
   <div id="page" class="site">
     <a class="skip-link screen-reader-text" href="#content">
       <?php esc_html_e('Skip to content', 'nam-coi-theme'); ?></a>
@@ -44,17 +45,39 @@
             </button>
             <div class="navbar-brand mx-0 d-flex justify-content-center align-items-center">
               <a href="# " class="btn px-0">
-                <h1 href="<?php bloginfo('url'); ?>" class="text-center">
+                <h1 href="<?php bloginfo('url'); ?>" class="text-center my-n1">
                   <?php bloginfo('name'); ?>
                 </h1>
               </a>
             </div>
-            <?php wp_nav_menu([
-												'theme_location' => 'primary',
-												'container' => 'div',
-												'menu_class' => 'collapse navbar-collapse'
-
-											]); ?>
+            <?php $categories = wp_list_categories();
+            var_dump($categories);
+            ?>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ml-0 mr-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    Dropdown
+                  </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                  </div>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li>
+              </ul>
+            </div>
             <form class="form-inline my-2 my-lg-0">
               <a class="btn btn-link" id="js-navigation-button">
                 <i class="fas fa-search"></i>
