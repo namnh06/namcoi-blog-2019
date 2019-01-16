@@ -1,0 +1,454 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Revenue 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-01-03 23:44+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: HappyThemes <support@happythemes.com>\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: 404.php:21
+msgid "Sorry, but it looks like nothing was found at this location. You may try one of the links below or do a search."
+msgstr ""
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#: admin/customizer-options.php:38
+msgid "Theme Settings"
+msgstr ""
+
+#: admin/customizer-options.php:44
+msgid "Logo"
+msgstr ""
+
+#: admin/customizer-options.php:52
+msgid "Favicon"
+msgstr ""
+
+#: admin/customizer-options.php:60
+msgid "Site Layout"
+msgstr ""
+
+#: admin/customizer-options.php:69
+msgid "Display header search form"
+msgstr ""
+
+#: admin/customizer-options.php:77
+msgid "Display featured content on homepage"
+msgstr ""
+
+#: admin/customizer-options.php:85
+msgid "Number of words to show on excerpt"
+msgstr ""
+
+#: admin/customizer-options.php:93
+msgid "Display featured image on single posts"
+msgstr ""
+
+#: admin/customizer-options.php:101
+msgid "Display footer widgets"
+msgstr ""
+
+#: admin/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: admin/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: admin/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: admin/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: admin/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: admin/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: category.php:18
+msgid "All posts in"
+msgstr ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:59
+msgid "Theme by"
+msgstr ""
+
+#: header.php:163
+msgid "Add menu for location: Primary Menu"
+msgstr ""
+
+#: header.php:182
+msgid "Search"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:394
+#: inc/classes/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2368
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2371
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2387
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2390
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2393
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2410
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2414
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2416
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2422
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2425
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2428
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3602
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3610
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Views"
+msgstr ""
+
+#: inc/template-tags.php:115
+msgid "Featured this post on homepage"
+msgstr ""
+
+#: inc/template-tags.php:180
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: index.php:65
+msgid "Continue Reading &raquo;"
+msgstr ""
+
+#: sidebar.php:16
+msgid "There is no content here"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Please put widgets to the <strong>Sidebar</strong>"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Okay, I'm doing now &raquo;"
+msgstr ""
+
+#: template-parts/content-list.php:25
+msgid "Read more &raquo;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:43
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/entry-meta.php:5
+msgid "Leave a Comment"
+msgstr ""
+
+#: template-parts/entry-meta.php:5
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/entry-meta.php:5
+msgid "comments off"
+msgstr ""
+
+#: template-parts/pagination.php:7
+msgid "Previous"
+msgstr ""
+
+#: template-parts/pagination.php:7
+msgid "Next"
+msgstr ""

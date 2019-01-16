@@ -11,6 +11,7 @@
  */
 
 ?>
+</div>
 <footer class="container-fluid border-top my-2 px-5">
   <div class="d-flex flex-row mt-2">
     <div class="col-10 col-md-6">

@@ -35,7 +35,7 @@
   <div id="page" class="site">
     <a class="skip-link screen-reader-text" href="#content">
       <?php esc_html_e('Skip to content', 'nam-coi-theme'); ?></a>
-    <header class="container-fluid Header">
+    <header class="container-fluid Header border-bottom shadow">
       <div class="row">
         <div class="col-12">
           <nav class="navbar navbar-expand-md justify-content-between">
@@ -44,38 +44,27 @@
               <i class="fas fa-bars"></i>
             </button>
             <div class="navbar-brand mx-0 d-flex justify-content-center align-items-center">
-              <a href="# " class="btn px-0">
-                <h1 href="<?php bloginfo('url'); ?>" class="text-center my-n1">
+              <a href="<?php bloginfo('url'); ?>" class="btn btn-link px-0 ">
+                <h1 class="text-center my-n1 text-uppercase text-dark">
                   <?php bloginfo('name'); ?>
                 </h1>
               </a>
             </div>
-            <?php $categories = wp_list_categories();
-            var_dump($categories);
+            <?php $categories = get_categories([
+              'parent' => 0,
+              'exclude' => 1
+            ]);
             ?>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav ml-0 mr-auto">
+                <?php foreach ($categories as $category) { ?>
                 <li class="nav-item active">
-                  <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Link</a>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
-                    aria-haspopup="true" aria-expanded="false">
-                    Dropdown
+                  <a class="nav-link text-capitalize text-dark font-weight-bold" href="<?php echo get_category_link($category->term_id); ?>">
+                    <?php echo $category->name; ?>
                   </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#">Something else here</a>
-                  </div>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-                </li>
+                <?php 
+              } ?>
               </ul>
             </div>
             <form class="form-inline my-2 my-lg-0">
