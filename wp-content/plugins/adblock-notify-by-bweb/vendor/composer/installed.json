@@ -1,0 +1,69 @@
+[
+    {
+        "name": "xrstf/composer-php52",
+        "version": "v1.0.20",
+        "version_normalized": "1.0.20.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/composer-php52/composer-php52.git",
+            "reference": "bd41459d5e27df8d33057842b32377c39e97a5a8"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/composer-php52/composer-php52/zipball/bd41459d5e27df8d33057842b32377c39e97a5a8",
+            "reference": "bd41459d5e27df8d33057842b32377c39e97a5a8",
+            "shasum": ""
+        },
+        "time": "2016-04-16T21:52:24+00:00",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-default": "1.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "xrstf\\Composer52": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ]
+    },
+    {
+        "name": "freemius/wordpress-sdk",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Freemius/wordpress-sdk.git",
+            "reference": "aaa7bab17a3dc095ab6e58dad8bbce3a2fa04d9c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Freemius/wordpress-sdk/zipball/aaa7bab17a3dc095ab6e58dad8bbce3a2fa04d9c",
+            "reference": "aaa7bab17a3dc095ab6e58dad8bbce3a2fa04d9c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.2"
+        },
+        "time": "2017-05-15T18:11:40+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-2.0+"
+        ],
+        "description": "Freemius WordPress SDK",
+        "homepage": "https://freemius.com",
+        "keywords": [
+            "freemius",
+            "plugin",
+            "sdk",
+            "wordpress"
+        ]
+    }
+]

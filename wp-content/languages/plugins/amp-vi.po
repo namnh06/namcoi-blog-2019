@@ -1,0 +1,304 @@
+# Translation of Plugins - AMP for WordPress - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - AMP for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-28 07:15:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - AMP for WordPress - Stable (latest release)\n"
+
+#: wpcom/class-amp-polldaddy-embed.php:83
+msgid "View Poll"
+msgstr "Xem cuộc thăm dò"
+
+#: wpcom/class-amp-polldaddy-embed.php:81
+msgid "View Survey"
+msgstr "Xem khảo sát"
+
+#: templates/admin/amp-status.php:68
+msgid "Cancel"
+msgstr "Hủy"
+
+#: templates/admin/amp-status.php:66
+msgid "OK"
+msgstr "OK"
+
+#: templates/admin/amp-status.php:57
+msgid "Unavailable for an unknown reason."
+msgstr "Không khả dụng vì một lý do nào đó."
+
+#: templates/admin/amp-status.php:54
+msgid "A plugin or theme has disabled AMP support."
+msgstr "Plugin hoặc giao diện đã được tắt hỗ trợ AMP."
+
+#. translators: %s is URL to AMP settings screen
+#: templates/admin/amp-status.php:51
+msgid "AMP cannot be enabled because this <a href=\"%s\">post type does not support it</a>."
+msgstr "Không thể bật AMP vì <a href=\"%s\">loại bài đăng không hỗ trợ AMP</a>."
+
+#: templates/admin/amp-status.php:47
+msgid "AMP cannot be enabled on password protected posts."
+msgstr "Không thể bật AMP trên các bài viết được bảo vệ bằng mật khẩu."
+
+#: templates/admin/amp-status.php:27
+msgid "Edit Status"
+msgstr "Sửa trạng thái"
+
+#: templates/admin/amp-status.php:26
+msgid "Edit"
+msgstr "Sửa"
+
+#: templates/admin/amp-status.php:23
+msgid "AMP:"
+msgstr "AMP:"
+
+#: includes/options/class-amp-options-menu.php:105
+msgid "Enable/disable AMP post type(s) support"
+msgstr "Bật/tắt hỗ trợ loại bài đăng AMP"
+
+#: includes/options/class-amp-options-menu.php:58
+msgid "Post Type Support"
+msgstr "Hỗ trợ Post Type"
+
+#: includes/options/class-amp-options-menu.php:45
+msgid "General"
+msgstr "Chung"
+
+#: includes/options/class-amp-options-menu.php:44
+msgid "AMP Settings"
+msgstr "Cài đặt AMP"
+
+#. translators: %s: Post type name.
+#: includes/options/class-amp-options-manager.php:185
+msgid "\"%s\" could not be deactivated because support is added by a plugin or theme"
+msgstr "\"%s\" không thể bị tắt bởi vì đã được hỗ trợ bởi plugin hoặc giao diện"
+
+#. translators: %s: Post type name.
+#: includes/options/class-amp-options-manager.php:181
+msgid "\"%s\" could not be activated because support is removed by a plugin or theme"
+msgstr "\"%s\" không thể kích hoạt vì việc hỗ trợ đã được gỡ bỏ bởi plugin hoặc giao diện"
+
+#: includes/options/class-amp-options-manager.php:139
+msgid "Duplicate analytics entry found."
+msgstr "Đã tìm thấy mục trùng lặp trong khi phân tích."
+
+#: includes/options/class-amp-options-manager.php:123
+msgid "Invalid analytics config JSON."
+msgstr "Cấu hình file JSON không hợp lệ."
+
+#: includes/options/class-amp-options-manager.php:116
+msgid "Missing vendor type or config."
+msgstr "Missing vendor type or config."
+
+#: includes/options/class-amp-options-manager.php:103
+msgid "Unrecognized post type."
+msgstr "Không nhận diện được post type."
+
+#: includes/admin/class-amp-post-meta-box.php:178
+msgid "Disabled"
+msgstr "Đã tắt"
+
+#: includes/admin/class-amp-post-meta-box.php:177
+msgid "Enabled"
+msgstr "Đã bật"
+
+#: includes/admin/class-amp-post-meta-box.php:151
+msgid "Preview changes in AMP (opens in new window)"
+msgstr "Xem trước các thay đổi trong AMP (mở trong cửa sổ mới)"
+
+#: includes/admin/class-amp-post-meta-box.php:81
+msgid "AMP status."
+msgstr "Trạng thái AMP."
+
+#: includes/admin/class-amp-customizer.php:265
+msgid "AMP preview enabled"
+msgstr "Đã bật xem trước AMP"
+
+#: includes/admin/class-amp-customizer.php:142
+msgid "Navigate to an AMP compatible page"
+msgstr "Điều hướng đến trang tương thích AMP"
+
+#: includes/admin/class-amp-customizer.php:141
+msgid "AMP is not available for the page currently being previewed."
+msgstr "AMP không có sẵn cho trang hiện đang được xem trước."
+
+#: includes/options/class-amp-options-manager.php:225
+msgid "Sorry, you do not have the necessary permissions to perform this action"
+msgstr "Xin lỗi, bạn không có quyền để làm việc này."
+
+#: includes/options/class-amp-options-manager.php:236
+msgid "The analytics entry was successfully saved!"
+msgstr "Mục nhập phân tích đã được lưu thành công!"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:65
+msgid "Delete"
+msgstr "Xóa"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:63
+msgid "Save"
+msgstr "Lưu"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:53
+msgid "JSON Configuration:"
+msgstr "Cấu hình JSON:"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:46
+msgid "ID:"
+msgstr "ID:"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:42
+msgid "Type:"
+msgstr "Kiểu:"
+
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:28
+msgid "Add new entry:"
+msgstr "Thêm mục nhập mới:"
+
+#. translators: %s is the entry slug
+#: includes/options/views/class-amp-analytics-options-submenu-page.php:26
+msgid "Analytics: %s"
+msgstr "Phân tích: %s"
+
+#: includes/options/class-amp-options-menu.php:34
+msgid "AMP Options"
+msgstr "Tùy chọn AMP"
+
+#: includes/options/class-amp-analytics-options-submenu.php:35
+msgid "Analytics"
+msgstr "Phân tích"
+
+#: includes/options/class-amp-analytics-options-submenu.php:34
+msgid "AMP Analytics Options"
+msgstr "Tùy chọn phân tích AMP"
+
+#: includes/amp-helper-functions.php:118
+msgid "is_amp_endpoint() was called before the 'parse_query' hook was called. This function will always return 'false' before the 'parse_query' hook is called."
+msgstr "is_amp_endpoint() đã được gọi trước khi hook 'parse_query' được gọi. Hàm này sẽ luôn luôn trả về 'false' trước khi hook 'parse_query' được gọi."
+
+#. translators: %s is sanitizer class
+#: includes/templates/class-amp-content-sanitizer.php:30
+msgid "Sanitizer (%s) class does not exist"
+msgstr "Class của sanitizer (%s) không tồn tại"
+
+#: templates/meta-taxonomy.php:17
+msgid "Tags: %s"
+msgstr "Thẻ: %s"
+
+#: templates/meta-taxonomy.php:4
+msgid "Categories: %s"
+msgstr "Chuyên mục: %s"
+
+#: templates/footer.php:25
+msgid "Back to top"
+msgstr "Trở lại đầu trang"
+
+#. translators: %s is WordPress.
+#: templates/footer.php:21
+msgid "Powered by %s"
+msgstr "Được hỗ trợ bởi %s"
+
+#: templates/footer.php:18
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: includes/settings/class-amp-customizer-design-settings.php:241
+msgid "Dark"
+msgstr "Tối"
+
+#: includes/settings/class-amp-customizer-design-settings.php:240
+msgid "Light"
+msgstr "Sáng"
+
+#: includes/settings/class-amp-customizer-design-settings.php:140
+msgid "Color Scheme"
+msgstr "Bảng màu"
+
+#: includes/settings/class-amp-customizer-design-settings.php:131
+msgid "Header Background & Link Color"
+msgstr "Nền đầu trang & Màu liên kết"
+
+#: includes/settings/class-amp-customizer-design-settings.php:121
+msgid "Header Text Color"
+msgstr "Màu chữ đầu trang"
+
+#: includes/settings/class-amp-customizer-design-settings.php:113
+msgid "Design"
+msgstr "Thiết kế"
+
+#: includes/templates/class-amp-post-template.php:349
+msgid "View Comments"
+msgstr "Xem bình luận"
+
+#: includes/templates/class-amp-post-template.php:348
+msgid "Leave a Comment"
+msgstr "Viết bình luận"
+
+#. translators: placeholder is URL to AMP project.
+#: includes/admin/class-amp-customizer.php:89
+msgid "<a href=\"%s\" target=\"_blank\">The AMP Project</a> is a Google-led initiative that dramatically improves loading speeds on phones and tablets. You can use the Customizer to preview changes to your AMP template before publishing them."
+msgstr "<a href=\"%s\" target=\"_blank\">The AMP Project</a> là một dự án nhằm cải thiện hiệu suất truy cập trên thiết bị di động bao gồm mobile và cả tablet. Bạn có thể sử dụng Trình Tuỳ chỉnh để xem thay đổi của mẫu AMP trước khi công bố."
+
+#. translators: %1$s is analytics entry ID, %2$s is actual entry keys.
+#: includes/amp-post-template-actions.php:147
+msgid "Analytics entry for %1$s is missing one of the following keys: `type`, `attributes`, or `config_data` (array keys: %2$s)"
+msgstr "Mục phân tích cho %1$s bị thiếu một trong các thông tin: `type`, `attributes`, hoặc `config_data` (array keys: %2$s)"
+
+#. Author URI of the plugin/theme
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+msgid "Add AMP support to your WordPress site."
+msgstr "Thêm hỗ trợ AMP cho trang web WordPress của bạn."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/automattic/amp-wp"
+msgstr "https://github.com/automattic/amp-wp"
+
+#. #-#-#-#-#  amp-code.pot (AMP 0.6.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/class-amp-customizer.php:87 includes/admin/functions.php:76
+#: includes/admin/functions.php:77
+#: includes/options/class-amp-options-menu.php:35
+msgid "AMP"
+msgstr "AMP"
+
+#: back-compat/templates-v0-3/meta-time.php:6 templates/meta-time.php:6
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s trước"
+
+#: back-compat/templates-v0-3/meta-taxonomy.php:1
+#: back-compat/templates-v0-3/meta-taxonomy.php:9 templates/meta-taxonomy.php:1
+#: templates/meta-taxonomy.php:11
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#. translators: %1$s is template file, %2$s is 'WP_CONTENT_DIR' string.
+#: includes/templates/class-amp-post-template.php:556
+msgid "Path validation for template (%1$s) failed. Path cannot traverse and must be located in `%2$s`."
+msgstr "Xác thực đường dẫn cho template (%1$s) không thành công. Đường dẫn không thể đi qua và phải nằm trong `%2$s`."
+
+#. translators: %s is key name
+#: includes/templates/class-amp-post-template.php:182
+msgid "Called for non-existent key (\"%s\")."
+msgstr "Đã gọi cho khoá không tồn tại (\"%s\")."
+
+#. translators: %s is sanitizer class
+#: includes/templates/class-amp-content-sanitizer.php:38
+msgid "Sanitizer (%s) must extend `AMP_Base_Sanitizer`"
+msgstr "Sanitizer (%s) phải mở rộng `AMP_Base_Sanitizer`"
+
+#. translators: %s is embed handler
+#: includes/templates/class-amp-content.php:154
+msgid "Embed Handler (%s) must extend `AMP_Embed_Handler`"
+msgstr "Trình xử lý nhúng (%s) phải mở rộng `AMP_Embed_Handler`"

@@ -8,7 +8,10 @@ services:
     restart: always
     volumes:
       - ./wp-content:/var/www/html/wp-content
+      - ./wp-config.php:/usr/src/wordpress/wp-config-sample.php
+      - ./.htaccess:/var/www/html/.htaccess
     environment:
+      WORDPRESS_DB_NAME: db-name
       WORDPRESS_DB_HOST: db:3306
       WORDPRESS_DB_USER: db-user
       WORDPRESS_DB_PASSWORD: db-password

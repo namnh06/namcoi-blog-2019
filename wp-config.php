@@ -20,6 +20,12 @@
  */
 /** IGNORE CONNECTION INFORMATION */
 define('FS_METHOD', 'direct');
+
+/** SITE SETTING */
+
+define('WP_HOME', 'http://localhost:8008');
+define('WP_SITEURL', 'http://localhost:8008');
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'namcoi_blog_2019');

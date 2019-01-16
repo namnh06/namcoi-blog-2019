@@ -1,0 +1,2799 @@
+# Translation of Plugins - Advanced Ads - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Advanced Ads - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-24 09:21:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Advanced Ads - Stable (latest release)\n"
+
+#: modules/gadsense/admin/admin.php:167
+msgid "Transparent background"
+msgstr "Nền trong suốt"
+
+#: classes/frontend_checks.php:92
+msgid "You look like a bot"
+msgstr "Trông bạn như là máy"
+
+#: modules/gadsense/admin/admin.php:262
+msgid "Enable this option in case your theme adds an unfortunate background color to AdSense ads."
+msgstr "Bật tùy chọn này trong trường hợp Theme của bạn thêm màu nền không vào quảng cáo AdSense."
+
+#: classes/frontend_checks.php:183
+msgid "Ads are disabled on all pages"
+msgstr "Ẩn quảng cáo ở tất cả các trang"
+
+#: classes/frontend_checks.php:253
+msgid "IDs: %s"
+msgstr "IDs: %s"
+
+#: classes/frontend_checks.php:252
+msgid "Ad is hidden"
+msgstr "Quảng cáo bị ẩn"
+
+#: classes/frontend_checks.php:251
+msgid "AdSense violation"
+msgstr "Vi phạm chính sách Adsense"
+
+#: modules/gadsense/admin/admin.php:159
+msgid "Disable violation warnings"
+msgstr "Ẩn cảnh báo vi phạm"
+
+#: modules/gadsense/admin/admin.php:251
+msgid "Our <a href=\"%s\" target=\"_blank\">Ad Health</a> feature monitors if AdSense is implemented correctly on your site. It also considers ads not managed with Advanced Ads. Enable this option to remove these checks"
+msgstr "Tính năng <a href=\"%s\" target=\"_blank\">Kiểm tra sức khoẻ quảng cáo</a> của chúng tôi theo dõi nếu AdSense được triển khai chính xác trên trang web của bạn. Nó cũng xem xét các quảng cáo không được quản lý bằng Quảng cáo Nâng cao. Bật tùy chọn này để loại bỏ các kiểm tra này"
+
+#: modules/gadsense/admin/admin.php:250
+msgid "Disable warnings about potential violations of the AdSense terms."
+msgstr "Vô hiệu hoá các cảnh báo về các nguy cơ vi phạm chính sách của AdSense."
+
+#: admin/views/setting-target.php:3
+msgid "Open programatically created links in a new window (use <code>target=\"_blank\"</code>)"
+msgstr "Mở chương trình tạo liên kết trong một cửa sổ mới (sử dụng <code> target = \"_ blank\" </code>)"
+
+#: admin/includes/class-overview-widgets.php:125
+#: admin/includes/class-overview-widgets.php:126
+#: admin/includes/class-overview-widgets.php:127
+#: admin/includes/class-overview-widgets.php:128
+msgid "integrates with <strong>%s</strong>"
+msgstr "integrates with <strong>%s</strong>"
+
+#: modules/adblock-finder/admin/admin.php:23
+msgid "Ad blocker counter"
+msgstr "Đến khối quảng cáo"
+
+#: modules/adblock-finder/admin/admin.php:16
+msgid "Ad Blocker"
+msgstr "Khối quảng cáo"
+
+#: classes/frontend_checks.php:236
+msgid "Ad IDs: %s"
+msgstr "ID Quảng cáo: %s"
+
+#: admin/includes/class-menu.php:84
+msgid "Groups & Rotation"
+msgstr "Nhóm và Thay đổi"
+
+#: admin/views/feedback-disable.php:26
+msgid "Keep it & get a reply within 12h"
+msgstr "Giữ lại và trả lời trong 12 giờ"
+
+#: admin/includes/class-menu.php:84
+msgid "Ad Groups & Rotations"
+msgstr "Nhóm quảng cáo và Các quảng cáo thay đổi"
+
+#: public/class-advanced-ads.php:580
+msgctxt "ad group general name"
+msgid "Ad Groups & Rotations"
+msgstr "Nhóm quảng cáo và các quảng cáo thay thế nhau"
+
+#: modules/adblock-finder/admin/views/setting-ga.php:2
+msgid "Want to know how many of your visitors are using an ad blocker? Enter your Google Analytics property ID above to count them."
+msgstr "Bạn muốn biết có bao nhiêu khách truy cập đang sử dụng một trình chặn quảng cáo? Nhập ID Google Analytics của bạn ở trên để tính chúng."
+
+#: admin/views/placement-injection-top.php:7
+msgid "Congratulations! Your ad is now visible in the frontend."
+msgstr "Xin chúc mừng! Quảng cáo của bạn bây giờ đã có thể nhìn thấy trên trang."
+
+#: classes/ad_type_dummy.php:45 classes/ad_type_image.php:65
+msgid "URL"
+msgstr "URL"
+
+#: admin/views/placement-injection-top.php:38
+msgid "see all…"
+msgstr "xem toàn bộ..."
+
+#: admin/views/placement-injection-top.php:35
+msgid "PopUp & Layer"
+msgstr "Cửa sổ mới (PopUp) và lớp (Layer)"
+
+#: admin/views/placement-injection-top.php:22
+#: admin/views/placement-injection-top.php:25
+msgid "Custom Position"
+msgstr "Vị trí tuỳ chọn"
+
+#: admin/views/placement-injection-top.php:19
+msgid "Header (Manual)"
+msgstr "Tiêu đề (Hướng dẫn)"
+
+#: admin/views/placement-injection-top.php:17
+msgid "PHP or Shortcode"
+msgstr "PHP hoặc Shortcode"
+
+#: admin/views/placement-injection-top.php:8
+msgid "Adjust the placement options"
+msgstr "Cài đặt vị trí đặt quảng cáo"
+
+#: admin/includes/class-overview-widgets.php:234
+msgid "Visit your ad stats"
+msgstr "Xem thống kê quảng cáo"
+
+#: classes/display-conditions.php:106
+msgid "taxonomy"
+msgstr "cấu trúc"
+
+#: admin/includes/class-overview-widgets.php:380
+msgid "Get this add-on"
+msgstr "Tải phần mở rộng này"
+
+#: admin/includes/class-overview-widgets.php:342
+msgid "Manage ad positions with Visual Composer."
+msgstr "Quản lý vị trí quảng cáo với Visual Composer."
+
+#: admin/includes/class-overview-widgets.php:323
+msgid "Use Genesis specific ad positions."
+msgstr "Sử dụng các vị trí của sẵn của Genesis"
+
+#: admin/includes/class-overview-widgets.php:250
+msgid "List of responsive ads by browser width"
+msgstr "Liệt kê danh sách quảng cáo theo độ rộng trình duyệt"
+
+#: admin/includes/class-overview-widgets.php:203
+#: admin/includes/class-overview-widgets.php:212
+#: admin/includes/class-overview-widgets.php:228
+#: admin/includes/class-overview-widgets.php:246
+#: admin/includes/class-overview-widgets.php:259
+#: admin/includes/class-overview-widgets.php:272
+#: admin/includes/class-overview-widgets.php:285
+#: admin/includes/class-overview-widgets.php:298
+#: admin/includes/class-overview-widgets.php:311
+#: admin/includes/class-overview-widgets.php:332
+#: admin/includes/class-overview-widgets.php:351
+msgid "Activate now"
+msgstr "Kích hoạt"
+
+#: admin/includes/class-overview-widgets.php:191
+#: admin/includes/class-overview-widgets.php:327
+#: admin/includes/class-overview-widgets.php:346
+msgid "Install now"
+msgstr "Cài đặt"
+
+#: classes/display-conditions.php:107
+msgid "Display ads based on the taxonomy of an archive page."
+msgstr "Hiển thị quảng cáo theo Taxonomy của trang lưu trữ"
+
+#: admin/includes/class-settings.php:167
+msgid "Open links in a new window"
+msgstr "Mở trong cửa sổ mới"
+
+#: admin/includes/class-overview-widgets.php:188
+msgid "Are you using the plain text & code ad type a lot? Install this add-on to show the code highlighted like in a real IDE."
+msgstr "Bạn có đang sử dụng loại văn bản thuần túy và nhiều đoạn mã quảng cáo? Cài đặt tiện ích này để hiển thị mã được được hiển thị nổi bật như trong IDE."
+
+#: admin/includes/class-overview-widgets.php:182
+msgid "Create a beautiful and simple slider from your ads to show more information on less space."
+msgstr "Tạo một slider đẹp và đơn giản từ quảng cáo của bạn để hiển thị thêm thông tin khi có ít không gian hiển thị"
+
+#: admin/includes/class-overview-widgets.php:176
+msgid "Users will never miss an ad or other information in a PopUp. Choose when it shows up and for how long a user can close it."
+msgstr "Người dùng sẽ không bao giờ bỏ lỡ một quảng cáo hoặc thông tin khác trong PopUp. Chọn khi nó xuất hiện và cho bao lâu người dùng có thể đóng nó."
+
+#: admin/includes/class-overview-widgets.php:170
+msgid "Increase click rates on your ads by placing them in sticky positions above, next or below your site."
+msgstr "Tăng tỷ lệ nhấp chuột lên quảng cáo của bạn bằng cách đặt chúng vào các vị trí dính trên, bên cạnh hoặc bên dưới trang web của bạn."
+
+#: admin/includes/class-overview-widgets.php:164
+msgid "Target visitors with ads that match their geo location and make more money with regional campaigns."
+msgstr "Nhắm mục tiêu khách truy cập với quảng cáo khớp với vị trí địa lý của họ và kiếm được nhiều tiền hơn với các chiến dịch trong khu vực."
+
+#: admin/includes/class-overview-widgets.php:158
+msgid "Earn more money and let advertisers pay for ad space directly on the frontend of your site."
+msgstr "Kiếm được nhiều tiền hơn và để cho các nhà quảng cáo thanh toán quảng cáo trực tiếp trên website."
+
+#: admin/includes/class-overview-widgets.php:145
+msgid "Display ads based on the device or the size of your visitor’s browser, and control ads on AMP pages."
+msgstr "Quảng cáo hiển thị hình ảnh dựa trên thiết bị hoặc kích thước của trình duyệt của khách truy cập và kiểm soát quảng cáo trên trang AMP."
+
+#: admin/includes/class-overview-widgets.php:122
+msgid "support for cached sites"
+msgstr "hỗ trợ trang có lưu trữ cache"
+
+#: admin/includes/class-overview-widgets.php:79
+msgid "Manage your ads"
+msgstr "Quản lý quảng cáo"
+
+#: admin/includes/class-overview-widgets.php:69
+msgid "How to earn more with AdSense"
+msgstr "Làm sao để kiếm thêm tiền với AdSense"
+
+#: admin/includes/class-overview-widgets.php:65
+msgid "Join the newsletter for more benefits"
+msgstr "Theo dõi bản tin để có thêm các kiến thức hữu ích"
+
+#: admin/includes/class-ad-type.php:599
+msgid "You don’t have access to ads. Please deactivate and re-enable Advanced Ads again to fix this."
+msgstr "Bạn không có quyền truy cập quảng cáo. Vui lòng huỷ kích hoạt rồi kích hoại lại Advanced Ads."
+
+#: admin/includes/class-overview-widgets.php:363
+msgid "Get the Bundle"
+msgstr "Mua Bundle"
+
+#: admin/includes/class-overview-widgets.php:130
+msgid "6 more placements"
+msgstr "6 vị trí quảng cáo nữa"
+
+#: admin/includes/class-overview-widgets.php:129
+msgid "11 more display and visitor conditions"
+msgstr "thêm 11 điều kiện hiện thị và điều kiện người dùng"
+
+#: admin/includes/class-overview-widgets.php:119
+msgid "The solution for professional websites."
+msgstr "Giải pháp cho websites chuyên nghiệp"
+
+#: admin/includes/class-overview-widgets.php:132
+msgid "ad grids and many more advanced features"
+msgstr "ad grids và nhiều tính năng nâng cao khác"
+
+#: admin/includes/class-overview-widgets.php:131
+msgid "placement tests for ad optimization"
+msgstr "kiểm tra các vị trí đặt thử nghiệm để tối ưu quảng cáo"
+
+#: admin/includes/class-overview-widgets.php:139
+msgid "Analyze clicks and impressions of your ads locally or in Google Analytics, share reports, and limit ads to a specific number of impressions or clicks."
+msgstr "Phân tích số nhấp chuột và số lần hiển thị của quảng cáo của bạn tại đây hoặc trong Google Analytics, chia sẻ báo cáo và giới hạn quảng cáo với số lần hiển thị hoặc nhấp chuột cụ thể."
+
+#: admin/includes/class-overview-widgets.php:361
+msgid "Our best deal with all current and future add-ons included."
+msgstr "Khuyến mãi tốt nhất của chúng tôi với tất cả các add-on hiện tại và tương lai đã bao gồm."
+
+#: admin/views/setting-license.php:12
+msgid "Update expiry date"
+msgstr "Cập nhật ngày hết hạn"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:82
+msgid "Layout"
+msgstr "Cấu trúc"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:81
+msgid "Tutorial: How to place ads between posts?"
+msgstr "Hướng dẫn: Đặt quảng cáo giữa các bài viết"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:64
+msgid "InFeed"
+msgstr "Trong bản tin (Feed)"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:63
+msgid "InArticle"
+msgstr "Trong bài viết"
+
+#: classes/ad_type_image.php:67
+msgid "Link to target site"
+msgstr "Link tới trang đích"
+
+#: admin/views/placements.php:119
+msgid "ad label"
+msgstr "Nhãn quảng cáo"
+
+#: admin/views/placements.php:94
+msgid "position"
+msgstr "vị trí"
+
+#: admin/views/feedback-disable.php:20
+msgid "Please specify"
+msgstr "Cần cụ thể"
+
+#: admin/views/feedback-disable.php:7
+msgid "I need help to set it up"
+msgstr "Tôi cần phải cài đặt nó"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:86
+msgid "Layout-Key"
+msgstr "Khoá cấu trúc"
+
+#: admin/views/ad-group.php:66
+msgid "save"
+msgstr "lưu"
+
+#: admin/views/ad-group.php:65
+msgid "Group title"
+msgstr "Tiêu đề nhóm"
+
+#: admin/includes/class-ad-groups-list.php:384
+msgid "No ad group created"
+msgstr "Không có nhóm quảng cáo nào được tạo"
+
+#: admin/views/ad-group.php:18
+msgid "Ad Group successfully created"
+msgstr "Nhóm quảng cáo đã được tạo"
+
+#: admin/views/setting-license.php:15
+msgid "Click on %2$s if you renewed it or have a subscription or <a href=\"%1$s\" target=\"_blank\">renew your license with a discount</a>."
+msgstr "Nhấp vào %2$s nếu bạn gia hạn hoặc đăng ký hoặc <a href=\"%1$s\" target=\"_blank\"> Gia hạn bản quyền được khuyến mãi </a>."
+
+#: classes/ad_type_dummy.php:26
+msgid "Dummy"
+msgstr "Giả"
+
+#: classes/ad_type_dummy.php:27
+msgid "Uses a simple placeholder ad for quick testing."
+msgstr "Sử dụng một quảng cáo đơn giản giữ chỗ cho thử nghiệm nhanh chóng."
+
+#: classes/display-conditions.php:587
+msgid "older than"
+msgstr "lâu hơn"
+
+#: classes/display-conditions.php:98
+msgid "Display ads based on age of the page."
+msgstr "Hiển thị quảng cáo theo tuổi của bài viết"
+
+#: classes/display-conditions.php:589
+msgid "days"
+msgstr "ngày"
+
+#: classes/display-conditions.php:588
+msgid "younger than"
+msgstr "ít hơn"
+
+#: admin/views/feedback-disable.php:15 admin/views/feedback-disable.php:18
+msgid "Which one?"
+msgstr "Cái nào"
+
+#: admin/views/ad-group-list-form-row.php:57
+msgid "Visible ads"
+msgstr "Các quảng cáo hiển thị"
+
+#: admin/views/placements.php:68
+msgid "template (PHP)"
+msgstr "mẫu (PHP)"
+
+#: admin/views/placements.php:128
+msgid "show all options"
+msgstr "xem tất cả các lựa chọn"
+
+#: admin/views/ad-visitor-metabox.php:8
+msgid "Hide the ad from some users"
+msgstr "Ẩn quảng cáo với một số người dùng"
+
+#: admin/views/ad-display-metabox.php:10
+msgid "Hide the ad on some pages"
+msgstr "Ẩn quảng cáo ở một vài trang"
+
+#: admin/includes/class-ad-groups-list.php:228
+msgid "Add some"
+msgstr "Thêm mới"
+
+#: admin/includes/class-ad-groups-list.php:218
+msgid "show %d more ads"
+msgstr "hiển thị %d thêm quảng cáo"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:30
+msgid "Insert new AdSense code"
+msgstr "Chèn quảng cáo Adsense mới"
+
+#: classes/frontend_checks.php:78
+msgid "Random AdSense ads"
+msgstr "Quảng cáo AdSense ngẫu nhiên"
+
+#: admin/views/placements-ad-label.php:9 admin/views/placements-ad-label.php:11
+msgid "disabled"
+msgstr "ẩn"
+
+#: admin/views/placements-ad-label.php:5 admin/views/placements-ad-label.php:7
+msgid "enabled"
+msgstr "hiển thị"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:24
+msgid "Copy the ad code from your AdSense account, paste it into the area below and click on <em>Get details</em>."
+msgstr "Sao chép mã quảng cáo từ tài khoản AdSense của bạn, dán mã vào khu vực bên dưới và nhấp vào <em> Xem chi tiết </em>."
+
+#: modules/gadsense/admin/admin.php:237
+msgid "Please notice that this code might also activate QuickStart ads. Please read <a href=\"%s\" target=\"_blank\">this article</a> if <strong>ads appear in random places</strong>."
+msgstr "Xin lưu ý rằng mã này cũng có thể kích hoạt quảng cáo QuickStart. Vui lòng đọc <a href=\"%s\" target=\"_blank\"> bài viết này </a> nếu <strong> quảng cáo xuất hiện ở những nơi ngẫu nhiên </strong>."
+
+#: classes/frontend_checks.php:462
+msgid "This ads was automatically placed here by AdSense. <a href=\"%s\" target=\"_blank\" style=\"color:#fff;border-color:#fff;\">Click here to learn more</a>."
+msgstr "Quảng cáo này được AdSense tự động đặt ở đây. <a href=\"%s\" target=\"_blank\" style=\"color:#fff;border-color:#fff;\"> Nhấp vào đây để tìm hiểu thêm </a>."
+
+#: classes/display-conditions.php:97
+msgid "content age"
+msgstr "tuổi của nội dung"
+
+#: admin/views/placements.php:135
+msgid "Tutorial: <a href=\"%s\" target=\"_blank\">How to place visible ads in the header of your website</a>."
+msgstr "Hướng dẫn: <a href=\"%s\" target=\"_blank\"> Cách đặt quảng cáo hiển thị trong tiêu đề trang web của bạn </a>."
+
+#: admin/views/placements-ad-label-position.php:18
+msgid "Check this if you don't want the following elements to float around the ad. (adds a placement_clearfix)"
+msgstr "Kiểm tra điều này nếu bạn không muốn các phần tử dưới đây trôi nổi xung quanh quảng cáo. (thêm một placement_clearfix)"
+
+#: admin/views/ad-visitor-metabox.php:7
+msgid "Click on the button below if the ad should NOT be visible to all visitors"
+msgstr "Nhấp vào nút dưới đây nếu quảng cáo không được hiển thị cho tất cả khách truy cập"
+
+#: admin/views/ad-group.php:69
+msgid "Find more information about ad groups in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "Tìm thêm thông tin về các nhóm quảng cáo trong <a href=\"%s\" target=\"_blank\"> hướng dẫn sử dụng </a>."
+
+#: admin/views/ad-display-metabox.php:9
+msgid "Click on the button below if the ad should NOT show up on all pages when included automatically."
+msgstr "Nhấp vào nút dưới đây nếu quảng cáo không nên hiển thị trên tất cả các trang tự động."
+
+#: admin/includes/notices.php:9
+msgid "Advanced Ads successfully installed. <a href=\"%s\" class=\"button button-primary\">Create your first ad</a>"
+msgstr "Quảng cáo Nâng cao đã được cài đặt thành công. <a href=\"%s\" class=\"button button-primary\"> Tạo quảng cáo đầu tiên của bạn </a>"
+
+#: admin/includes/class-settings.php:230
+msgid "See also <a href=\"%s\" target=\"_blank\">Issues and questions about licenses</a>."
+msgstr "Xem thêm <a href=\"%s\" target=\"_blank\"> Các vấn đề và câu hỏi về bản quyền </a>."
+
+#: admin/includes/class-settings.php:229
+msgid "Enter license keys for our powerful <a href=\"%s\" target=\"_blank\">add-ons</a>."
+msgstr "Điền Key bản quyền cho các <a href=\"%s\" target=\"_blank\"> add-ons </a>"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:61
+msgid "Link ads"
+msgstr "Link quảng cáo"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:62
+msgid "Link ads (Responsive)"
+msgstr "Link quảng cáo (Tương thích)"
+
+#: admin/views/feedback-disable.php:16
+msgid "I don’t use ads on my site"
+msgstr "Tôi không cần quảng cáo trên trang của mình"
+
+#: admin/views/feedback-disable.php:12
+msgid "Send me free help to %s"
+msgstr "Gửi cho tôi thông tin tới %s"
+
+#: admin/views/feedback-disable.php:8
+msgid "I have a problem"
+msgstr "Tôi gặp vấn đề"
+
+#: admin/views/feedback-disable.php:9
+msgid "Please let us know how we can help"
+msgstr "Cho chúng tôi biết để chúng tôi hỗ trợ"
+
+#: modules/gadsense/admin/admin.php:354
+msgid "Responsive AdSense ads don’t work reliably with <em>Position</em> set to left or right. Either switch the <em>Type</em> to \"normal\" or follow <a href=\"%s\" target=\"_blank\">this tutorial</a> if you want the ad to be wrapped in text."
+msgstr "Các quảng cáo AdSense không hoạt động với Vị trí <em> Vị trí </em> được đặt sang trái hoặc phải. Hãy chuyển <em> Kiểu </em> sang \"bình thường\" hoặc theo <a href=\"%s\" target=\"_blank\"> hướng dẫn này </a> nếu bạn muốn quảng cáo được bao bọc bởi văn bản."
+
+#: classes/ad_placements.php:547
+msgid "Set <em>%s</em> to show more ads"
+msgstr "Đặt <em>%s</em> để hiển thị thêm quảng cáo"
+
+#: admin/includes/class-settings.php:110 classes/ad_placements.php:547
+msgid "Disable level limitation"
+msgstr "Giới hạn thẩm quyền"
+
+#: admin/includes/class-settings.php:502
+msgid "Disable shortcode button in visual editor."
+msgstr "Ẩn shortcode button trong trình soạn thảo"
+
+#: admin/includes/class-settings.php:187
+msgid "Disable shortcode button"
+msgstr "Ẩn shortcode button"
+
+#: admin/includes/class-shortcode-creator.php:155
+msgid "Please, either switch off your ad blocker or disable the shortcode button in the <a href=\"%s\" target=\"_blank\">settings</a>."
+msgstr "Vui lòng tắt trình chặn quảng cáo hoặc tắt shortcode button trong <a href=\"%s\" target=\"_blank\"> cài đặt </a>."
+
+#: admin/includes/class-settings.php:346
+msgid "Advanced Ads ignores paragraphs and other elements in containers when injecting ads into the post content. Check this option to ignore this limitation and ads might show up again."
+msgstr "Quảng cáo Nâng cao bỏ qua đoạn văn và các yếu tố khác trong các vùng chứ quảng cáo khi chèn quảng cáo vào nội dung bài đăng. Chọn tùy chọn này để bỏ qua giới hạn này và quảng cáo có thể hiển thị lại."
+
+#: classes/display-conditions.php:294
+msgid "Only %d elements are displayed above. Use the <code>advanced-ads-admin-max-terms</code> filter to change this limit according to <a href=\"%s\" target=\"_blank\">this page</a>."
+msgstr "Chỉ có%d phần tử được hiển thị ở trên. Sử dụng <code>advanced-ads-admin-max-terms</code> để thay đổi giới hạn này theo <a href=\"%s\" target=\"_blank\">trang này</a>."
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:60
+msgid "Responsive (Matched Content)"
+msgstr "Tương thích (Nội dung)"
+
+#: modules/ad-blocker/admin/views/setting-use-adblocker.php:4
+msgid "The ad block disguise can only be set by the super admin on the main site in the network."
+msgstr "Việc chặn quảng cáo chỉ có thể được đặt bởi quản trị viên cấp cao."
+
+#: classes/filesystem.php:65
+msgid "Filesystem error."
+msgstr "Lỗi file hệ thống"
+
+#: classes/filesystem.php:61
+msgid "Could not access filesystem."
+msgstr "Không thể truy cập file hệ thống"
+
+#: modules/ad-blocker/admin/admin.php:150
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Không thể kết nối với hệ thống tập tin. Vui lòng xác nhận thông tin của bạn."
+
+#: classes/filesystem.php:80
+msgid "Unable to locate needed folder (%s)."
+msgstr "Không thể định vị được thư mục cần thiết (%s)."
+
+#: classes/filesystem.php:76
+msgid "Unable to locate WordPress content directory (wp-content)."
+msgstr "Không thể định vị thư mục nội dung WordPress (wp-content)."
+
+#: classes/filesystem.php:72
+msgid "Unable to locate WordPress root directory."
+msgstr "Không thể định vị thư mục gốc WordPress"
+
+#: admin/includes/class-licenses.php:472
+msgid "Download failed. <a href=\"%s\" target=\"_blank\">Click here to learn why</a>."
+msgstr "Tải xuống không thành công. <a href=\"%s\" target=\"_blank\"> Nhấp vào đây để tìm hiểu lý do tại sao </a>."
+
+#: admin/includes/class-licenses.php:470
+msgid "Download failed. <a href=\"%s\">Click here to try another method</a>."
+msgstr "Tải xuống không thành công. <a href=\"%s\"> Nhấp vào đây để thử một phương pháp khác </a>."
+
+#: admin/includes/class-settings.php:314
+msgid "Some plugins and themes trigger ad injections where it shouldn’t happen. Therefore, Advanced Ads ignores injected placements on non-singular pages and outside the loop. However, this can cause problems with some themes. Set this option to -1 in order to enable unlimited ad injection at your own risk, set it to 0 to keep it disabled or choose a positive number to enable the injection only in the first x posts on your archive pages."
+msgstr "Một số plugins và theme chèn quảng cáo nơi nó không nên chèn. Do đó, Advanced Ads bỏ qua việc chèn vị trí trên các trang đơn và bên ngoài vòng lặp. Tuy nhiên, điều này có thể gây ra vấn đề với một số theme. Thiết lập tùy chọn này để  -1 để cho phép chèn quảng cáo không giới hạn với nguy cơ bạn tự chịu trách nhiệm, đặt nó vào 0 để giữ nó vô hiệu hóa hoặc chọn một số tích cực để cho phép chèn chỉ trong x bài viết đầu tiên trên các trang lưu trữ của bạn."
+
+#: admin/views/feedback-disable.php:25
+msgid "Submit & Deactivate"
+msgstr "Gửi và Hủy kích hoạt"
+
+#: admin/views/feedback-disable.php:27
+msgid "Only Deactivate"
+msgstr "Chỉ Huỷ kích hoạt"
+
+#: admin/views/feedback-disable.php:17
+msgid "I switched to another plugin"
+msgstr "Tôi chuyển sang dùng Plugin khác"
+
+#: admin/views/feedback-disable.php:14
+msgid "I miss a feature"
+msgstr "Tôi thấy thiếu tính năng"
+
+#: admin/views/feedback-disable.php:6
+msgid "It is only temporary"
+msgstr "Tạm thời thôi"
+
+#: classes/ad-debug.php:272 classes/frontend_checks.php:235
+msgid "Your website is using HTTPS, but the ad code contains HTTP and might not work."
+msgstr "Trang web của bạn đang sử dụng HTTPS, nhưng các mã quảng cáo chứa HTTP và có thể không hoạt động."
+
+#: classes/visitor-conditions.php:32
+msgid "device"
+msgstr "thiết bị"
+
+#: classes/visitor-conditions.php:86
+msgid "Mobile (including tablets)"
+msgstr "Di động (bao gồm máy tính bảng)"
+
+#: classes/visitor-conditions.php:87
+msgid "Desktop"
+msgstr "Máy tính để bàn"
+
+#: admin/includes/class-licenses.php:86
+msgid "There might be a new version of %1$s. Please <strong>provide a valid license key</strong> in order to receive updates and support <a href=\"%2$s\">on this page</a>."
+msgstr "Có thể có một phiên bản mới của %1$s. Hãy <strong>cung cấp một chìa key bản quyền hợp lệ</strong>để được cập nhật và hỗ trợ <a href=\"%2$s\"> trên trang này </a>."
+
+#: admin/views/ad-display-metabox.php:17
+msgid "Watch video"
+msgstr "Xem Video"
+
+#: admin/includes/class-overview-widgets.php:377
+#: admin/views/ad-display-metabox.php:19 admin/views/ad-visitor-metabox.php:17
+msgid "Visit the manual"
+msgstr "Xem hướng dẫn"
+
+#: admin/views/ad-display-metabox.php:23
+msgid "A page with this ad on it must match all of the following conditions."
+msgstr "Một trang với quảng cáo này trên nó phải phù hợp với tất cả các điều kiện sau đây."
+
+#: admin/views/ad-visitor-metabox.php:49
+msgid "It seems that a caching plugin is activated."
+msgstr "Dường như một Plugin cache đã được kích hoạt."
+
+#: classes/ad-debug.php:32
+msgid "The ad is displayed on the page"
+msgstr "Quảng cáo sẽ hiện trên trang"
+
+#: classes/ad-debug.php:34
+msgid "The ad is not displayed on the page"
+msgstr "Quảng cáo sẽ không hiện trên trang"
+
+#: classes/ad-debug.php:39
+msgid "Current query is not identical to main query."
+msgstr "Truy vấn hiện tại không giống với truy vấn chính."
+
+#: classes/ad-debug.php:45
+msgid "current post"
+msgstr "bài viết hiện tại"
+
+#: classes/ad-debug.php:49
+msgid "Current post is not identical to main post."
+msgstr "Bài viết hiện tại không giống với bài chính."
+
+#: classes/ad-debug.php:51
+msgid "main post"
+msgstr "bài chính"
+
+#: classes/ad-debug.php:98
+msgid "current query"
+msgstr "truy vấn hiện tại"
+
+#: classes/ad-debug.php:98
+msgid "main query"
+msgstr "truy vấn chính"
+
+#: classes/ad-debug.php:128
+msgid "Placement"
+msgstr "Vị trí đặt"
+
+#: classes/frontend_checks.php:266
+msgid "debug DFP ads"
+msgstr "kiểm tra quảng cáo DFP"
+
+#: classes/frontend_checks.php:277
+msgid "highlight ads"
+msgstr "đánh dấu quảng cáo"
+
+#: public/views/ad-debug.php:18
+msgid "Ad debug output"
+msgstr "Kiểm tra lỗi quảng cáo"
+
+#: public/views/ad-debug.php:20
+msgid "Find solutions in the manual"
+msgstr "Tìm giải pháp trong hướng dẫn"
+
+#: admin/views/support.php:58
+msgid "Take a look at more common issues or contact us directly through the <a href=\"%s\" target=\"_blank\">support page</a>."
+msgstr "Hãy xem xét các vấn đề phổ biến hơn hoặc liên hệ với chúng tôi trực tiếp thông qua <a href=\"%s\" target=\"_blank\">trang hỗ trợ</a>."
+
+#: admin/views/support.php:48
+msgid "Ads not showing up"
+msgstr "Quảng cáo không xuất hiện"
+
+#: admin/views/support.php:49
+msgid "Purchase & Licenses"
+msgstr "Mua bản quyền"
+
+#: admin/views/support.php:50
+msgid "General Issues"
+msgstr "Vấn đề chung"
+
+#: admin/views/support.php:51
+msgid "Issues with Add-Ons"
+msgstr "Vấn đề với Add-Ons"
+
+#: admin/views/setting-license.php:47
+msgid "Update License"
+msgstr "Cập nhật bản quyền"
+
+#: classes/frontend_checks.php:293
+msgid "Ad Health"
+msgstr "Trạng thái quảng cáo"
+
+#: classes/frontend_checks.php:106
+msgid "Ad blocker enabled"
+msgstr "Ad Blocker đang bật"
+
+#: classes/frontend_checks.php:125
+msgid "<em>%s</em> filter does not exist"
+msgstr "<em>%s</em> không tồn tại bộ lọc"
+
+#: classes/frontend_checks.php:144
+msgid "Ads are disabled on this page"
+msgstr "Quảng cáo bị ẩn trên trang này"
+
+#: classes/frontend_checks.php:157
+msgid "Ads are disabled in the content of this page"
+msgstr "Quảng cáo được ẩn trong nội dung trang này"
+
+#: classes/frontend_checks.php:169
+msgid "the current post ID is 0 "
+msgstr "ID của bài viết là 0"
+
+#: classes/frontend_checks.php:196
+msgid "Ads are disabled on 404 pages"
+msgstr "Quảng cáo ẩn ở trang 404: Không tìm thấy"
+
+#: classes/frontend_checks.php:209
+msgid "Ads are disabled on non singular pages"
+msgstr "Quảng cáo ẩn ở trang riêng"
+
+#: classes/frontend_checks.php:308
+msgid "Everything is fine"
+msgstr "Mọi thứ có vẻ ổn"
+
+#: admin/views/placement-injection-top.php:13
+msgid "New placement"
+msgstr "Vị trí mới"
+
+#: admin/views/placement-injection-top.php:62
+msgid "Existing placement"
+msgstr "Các vị trí đã có"
+
+#: modules/gadsense/admin/admin.php:217
+msgid "There is no explicit limit for AdSense ads anymore, but you can still use this setting to prevent too many AdSense ads to show accidentally on your site."
+msgstr "Không có giới hạn rõ ràng cho các quảng cáo AdSense nữa, nhưng bạn vẫn có thể sử dụng thiết lập này để ngăn chặn quá nhiều quảng cáo AdSense hiển thị tình cờ trên một trang web của bạn."
+
+#: admin/views/placement-injection-top.php:9
+msgid "Ad not showing up? Take a look <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "Quảng cáo không hiển thị? Kiểm tra <a href=\"%s\" target=\"_blank\">tại đây</a>"
+
+#: admin/includes/class-settings.php:177
+msgid "Delete data on uninstall"
+msgstr "Xóa dữ lieu khi gỡ plugin"
+
+#: admin/includes/class-settings.php:489
+msgid "Clean up all data related to Advanced Ads when removing the plugin."
+msgstr "Xóa tất cả dữ liệu liên quan đến Advanced Ads khi loại bỏ plugin."
+
+#: public/class-advanced-ads.php:754
+msgctxt "label above ads"
+msgid "Advertisements"
+msgstr "Tên quảng cáo"
+
+#: classes/EDD_SL_Plugin_Updater.php:201
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "Có phiên bản mới %1$s. %2$sXem phiên bản %3$s chi tiết%4$s."
+
+#: classes/EDD_SL_Plugin_Updater.php:209
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "Có phiên bản mới %1$s. %2$sXem phiên bản %3$s chi tiết%4$s or %5$sCập nhật%6$s."
+
+#: admin/views/ad-list-no-ads.php:2
+msgid "Watch the “First Ad” Tutorial (Video)"
+msgstr "Xem  hướng dẫn (Video) về \"Quảng cáo đầu tiên\""
+
+#: admin/views/ad-info-after-textarea.php:6
+msgid "Reach out to <a href=\"%s\">support</a> to get help."
+msgstr "Tiếp cận với <a href=\"%s\">bộ phận hỗ trợ</a> để được giúp đỡ."
+
+#: admin/views/ad-info-after-textarea.php:5
+msgid "The code of this ad might not work properly with the <em>Content</em> placement."
+msgstr "Các mã của quảng cáo này có thể không hoạt động đúng với <em>Nội dung</em> vị trí."
+
+#: admin/views/ad-display-metabox.php:59
+msgid "Forced to OR."
+msgstr "Buộc phải Hoặc."
+
+#: modules/import-export/classes/import.php:64
+msgid "Please enter XML content"
+msgstr "Vui lòng nhập nội dung XML"
+
+#: modules/import-export/classes/import.php:145
+#: modules/import-export/classes/import.php:561
+msgid "New attachment created <em>%s</em> %s"
+msgstr "Đã tạo đính kèm mới <em>%s</em> %s"
+
+#: modules/import-export/classes/import.php:177
+msgid "Failed to import <em>%s</em>"
+msgstr "Không thể nhập vào <em>%s</em>"
+
+#: modules/import-export/classes/import.php:185
+msgid "New ad created: <em>%s</em> %s"
+msgstr "Quảng cáo mới đã tạo: <em>%s</em> %s"
+
+#: modules/import-export/classes/import.php:228
+msgid "Assigned terms: <em>%s</em>, to post: <em>%s</em>"
+msgstr "Phân bổ Term: <em>%s</em>,cho bài viết: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:290
+msgid "New group created, id: <em>%s</em>, name: <em>%s</em>"
+msgstr "Nhóm quảng cáo mới đã tạo, id: <em>%s</em>, tên: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:292
+msgid "Failed to import taxonomy: <em>%s</em>, term: <em>%s</em>"
+msgstr "Không thể nhập vào taxonomy: <em>%s</em>, term: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:357
+msgid "Placement <em>%s</em> created"
+msgstr "Vị trí quảng cáo <em>%s</em> được tạo"
+
+#: modules/import-export/classes/import.php:472
+msgid "Option was updated: <em>%s</em>"
+msgstr "Cài đặt đã được cập nhật: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:475
+msgid "Option already exists: <em>%s</em>"
+msgstr "Cài đặt đã có sẵn: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:497
+msgid "Failed to create import directory <em>%s</em>"
+msgstr "Không thể tạo thư mục nhập vào <em>%s</em>"
+
+#: modules/import-export/classes/import.php:502
+msgid "Import directory is not writable: <em>%s</em>"
+msgstr "Thưc mục nhập vào không thể lưu dữ liệu: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:510
+msgid "File is empty, uploads are disabled or post_max_size is smaller than upload_max_filesize in php.ini"
+msgstr "File là trống rỗng, upload lên bị khóa hoặc post_max_size nhỏ hơn upload_max_filesize trong php.ini"
+
+#: modules/import-export/classes/import.php:520
+msgid "Failed to upload file, error: <em>%s</em>"
+msgstr "Không thể tải lên các tập tin, báo lỗi: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:525
+msgid "File is empty."
+msgstr "File trống"
+
+#: modules/import-export/classes/import.php:603
+msgid "Invalid filetype <em>%s</em>"
+msgstr "Loại file không phù hợp <em>%s</em>"
+
+#: modules/import-export/classes/import.php:632
+msgid "Zero size file downloaded <em>%s</em>"
+msgstr "File dữ liệu bằng 0 được tải <em>%s</em>"
+
+#: modules/import-export/classes/XmlEncoder.php:149
+msgctxt "import_export"
+msgid "An unexpected value could not be serialized: %s"
+msgstr "Một giá trị bất ngờ không thể nhận: %s"
+
+#: modules/import-export/classes/XmlEncoder.php:201
+msgctxt "import_export"
+msgid "Invalid XML data, it can not be empty"
+msgstr "Dữ liệu XML không phù hợp, nó không thể trống"
+
+#: modules/import-export/classes/XmlEncoder.php:223
+msgctxt "import_export"
+msgid "XML error: %s"
+msgstr "Lỗi XML: %s"
+
+#: modules/import-export/views/page.php:16
+msgid "Export"
+msgstr "Xuất"
+
+#: modules/import-export/views/page.php:17
+msgid "When you click the button below Advanced Ads will create an XML file for you to save to your computer."
+msgstr "Khi bạn nhấp vào nút bên dưới Advanced Ads sẽ tạo ra một tập tin XML để bạn có thể lưu vào máy tính của bạn."
+
+#: modules/import-export/views/page.php:33
+msgid "Import"
+msgstr "Nhập vào"
+
+#: modules/import-export/views/page.php:44
+msgid "Choose an XML file"
+msgstr "Chọn 1 file XML"
+
+#: modules/import-export/views/page.php:45
+msgid "Copy an XML content"
+msgstr "Copy nội dung 1 file XML"
+
+#: modules/import-export/views/page.php:66
+msgid "Start import"
+msgstr "Tiến hành nhập vào"
+
+#: modules/import-export/classes/import.php:608
+#: modules/import-export/classes/import.php:615
+#: modules/import-export/classes/import.php:623
+#: modules/import-export/classes/import.php:638
+msgid "Error getting remote image <em>%s</em>"
+msgstr "Lỗi nhận hình ảnh từ xa <em>%s </em>"
+
+#: modules/import-export/classes/import.php:530
+msgid "The file could not be created: <em>%s</em>. This is probably a permissions problem"
+msgstr "Các tập tin không thể được tạo ra: <em>%s </em>. Đây có lẽ là một vấn đề quyền"
+
+#: modules/import-export/views/page.php:57
+msgid "Maximum size: %s"
+msgstr "Kích thước tối đa: %s"
+
+#: modules/import-export/views/page.php:52
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Trước khi tải file lên, bạn cần sửa lỗi:"
+
+#: modules/import-export/views/page.php:28
+msgid "Download Export File"
+msgstr "Tải Export File"
+
+#: classes/frontend_checks.php:222
+#: modules/import-export/classes/XmlEncoder.php:61
+#: modules/import-export/classes/XmlEncoder.php:64
+#: modules/import-export/classes/XmlEncoder.php:193
+#: modules/import-export/classes/XmlEncoder.php:196
+msgid "The %s extension(s) is not loaded"
+msgstr "Phần %s mở rộng không được tải"
+
+#: admin/views/ad-display-metabox.php:60
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:66
+msgid "manual"
+msgstr "hướng dẫn"
+
+#: admin/views/ad-info-bottom.php:2
+msgctxt "wizard navigation"
+msgid "previous"
+msgstr "trước"
+
+#: admin/views/ad-info-bottom.php:5
+msgctxt "wizard navigation"
+msgid "save"
+msgstr "lưu"
+
+#: admin/views/ad-info-bottom.php:5 admin/views/ad-info-bottom.php:6
+msgctxt "wizard navigation"
+msgid "next"
+msgstr "tiếp"
+
+#: admin/views/ad-info-bottom.php:7 admin/views/ad-info-top.php:19
+msgid "Stop Wizard and show all options"
+msgstr "Dừng Wizard và hiển thị tất cả tùy chọn"
+
+#: admin/views/ad-info-top.php:2
+msgid "Start Wizard"
+msgstr "Bắt đầu các bước"
+
+#: admin/views/ad-info-top.php:3
+msgid "Stop Wizard"
+msgstr "Dừng lại các bước"
+
+#: admin/views/ad-parameters-size.php:1
+msgid "size"
+msgstr "kích thước"
+
+#: admin/views/settings.php:49 modules/import-export/main.php:15
+msgid "Import &amp; Export"
+msgstr "Nhập &amp; Xuất"
+
+#: modules/import-export/classes/XmlEncoder.php:75
+msgctxt "import_export"
+msgid "The data must be an array"
+msgstr "Các dữ liệu phải là một mảng"
+
+#: modules/import-export/classes/XmlEncoder.php:103
+msgctxt "import_export"
+msgid "The key %s is not valid"
+msgstr "Key %s không phù hợp"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:70
+msgid "Use the <a href=\"%s\" target=\"_blank\">Responsive add-on</a> in order to define the exact size for each browser width or choose between horizontal, vertical, or rectangle formats."
+msgstr "Sử dụng <a href=\"%s\" target=\"_blank\">Responsive add-on</a> để xác định kích thước chính xác cho chiều rộng trình duyệt hoặc chọn giữa chiều dọc, ngang hoặc hình chữ nhật."
+
+#: classes/ad_type_plain.php:87
+msgid "Allow PHP"
+msgstr "Cho phép PHP"
+
+#: admin/class-advanced-ads-admin.php:208
+msgid "After which paragraph?"
+msgstr "Sau đoạn nào?"
+
+#: admin/views/placement-injection-top.php:15 classes/ad_placements.php:59
+msgid "Content"
+msgstr "Nội dung"
+
+#: admin/views/placement-injection-top.php:12
+msgid "Where do you want to display the ad?"
+msgstr "Nơi nào bạn muốn hiển thị các quảng cáo?"
+
+#: admin/views/placement-injection-top.php:18
+msgid "Manage Sidebar"
+msgstr "Quản lý Sidebar"
+
+#: admin/views/placement-injection-top.php:23
+msgid "Show Pro Places"
+msgstr "Xem các vị trí nâng cao"
+
+#: admin/views/placement-injection-top.php:29
+msgid "Show Sticky Places"
+msgstr "Xem các vị trí đính cố định"
+
+#: admin/views/placement-injection-top.php:33
+msgid "Show PopUp"
+msgstr "Xem PopUp"
+
+#: admin/views/placement-injection-top.php:67
+msgid "Or use the shortcode %s to insert the ad into the content manually."
+msgstr "Hoặc sử dụng shortcode %s để chèn quảng cáo vào nội dung bằng tay."
+
+#: classes/ad_type_group.php:31
+msgid "Choose an existing ad group. Use this type when you want to assign the same display and visitor conditions to all ads in that group."
+msgstr "Chọn nhóm quảng cáo đã tồn tại. Sử dụng nhóm này khi bạn muốn gán cùng điều kiện khách truy cập và hiển thị cho tất cả quảng cáo trong nhóm đó."
+
+#: classes/ad_type_group.php:84
+msgid "ad group"
+msgstr "nhóm quảng cáo"
+
+#: admin/includes/class-licenses.php:245 admin/includes/class-licenses.php:263
+msgid "License couldn’t be deactivated. Please try again later."
+msgstr "Bản quyền không thể được kích hoạt. Vui lòng thử lại sau."
+
+#: admin/views/setting-license.php:5
+msgid "Your license expired."
+msgstr "Bản quyền đã hết hạn."
+
+#: admin/includes/class-licenses.php:132
+msgid "License couldn’t be activated. Please try again later."
+msgstr "Bản quyền không thể được kích hoạt. Vui lòng thử lại sau."
+
+#: admin/includes/class-licenses.php:149
+msgid "There are no activations left."
+msgstr "Đã hết bản quyền."
+
+#: admin/includes/class-meta-box.php:136
+msgid "Video"
+msgstr "Video"
+
+#: admin/includes/class-settings.php:158
+msgid "Ad label"
+msgstr "Nhãn quảng cáo"
+
+#: admin/includes/class-settings.php:455
+msgid "Displayed above ads."
+msgstr "Đã hiển thị quảng cáo bên trên."
+
+#: admin/includes/class-settings.php:448
+msgctxt "label before ads"
+msgid "Advertisements"
+msgstr "Quảng cáo"
+
+#: classes/ad_placements.php:220
+msgid "paragraph without image (%s)"
+msgstr "đoạn không có ảnh (%s)"
+
+#: classes/display-conditions.php:478
+msgid "title or id"
+msgstr "tiêu đề hoặc id"
+
+#: classes/display-conditions.php:558
+msgid "Feed"
+msgstr "Tin Feed"
+
+#: classes/display-conditions.php:559
+msgid "allow ads in Feed"
+msgstr "Cho quảng cáo hiển thị ở trang tin Feed"
+
+#: admin/views/settings-disable-ads.php:21
+msgid "Disable ads in Feed"
+msgstr "Vô hiệu hóa quảng cáo trong Feed"
+
+#: admin/views/ad-parameters-size.php:8
+msgid "reserve this space"
+msgstr "dành chỗ này"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:31
+msgid "Rename assets"
+msgstr "Đổi tên các tài nguyên"
+
+#: admin/class-advanced-ads-admin.php:207 admin/views/ad-visitor-metabox.php:90
+#: classes/display-conditions.php:189 classes/visitor-conditions.php:241
+msgid "and"
+msgstr "và"
+
+#: admin/class-advanced-ads-admin.php:206
+#: admin/views/ad-display-metabox.php:114 classes/display-conditions.php:189
+#: classes/visitor-conditions.php:241
+msgid "or"
+msgstr "hoặc"
+
+#: admin/views/ad-output-metabox.php:47
+msgid "Enable debug mode"
+msgstr "Kích hoạt chế độ kiểm tra lỗi"
+
+#: admin/includes/notices.php:59
+msgid "Some assets were changed. Please <strong>rebuild the asset folder</strong> in the <a href=\"%s\">Advanced Ads settings</a> to update the ad blocker disguise."
+msgstr "Một số tài liệu đã thay đổi. Hãy <strong> xây dựng lại thư mục tài liệu </strong> trong <a href=\"%s\"> Cài đặt Advanced Ads </a> để cập nhật tính năng qua mặt ad blocker."
+
+#: classes/display-conditions.php:248 classes/display-conditions.php:293
+#: classes/display-conditions.php:380 classes/display-conditions.php:424
+msgctxt "Error message shown when no display condition term is selected"
+msgid "Please select some items."
+msgstr "Vui lòng chọn điều kiện."
+
+#: classes/display-conditions.php:131
+msgid "archive: %s"
+msgstr "lưu trữ: %s"
+
+#: classes/display-conditions.php:69
+msgid "post type"
+msgstr "loại bài viết"
+
+#: classes/display-conditions.php:76
+msgid "specific pages"
+msgstr "trang cụ thể"
+
+#: classes/display-conditions.php:82
+msgid "general conditions"
+msgstr "điều kiện chung"
+
+#: classes/display-conditions.php:88
+msgid "author"
+msgstr "tác giả"
+
+#: admin/views/ad-display-metabox.php:22
+#: admin/views/notices/jqueryui_error.php:2
+msgid "There might be a problem with layouts and scripts in your dashboard. Please check <a href=\"%s\" target=\"_blank\">this article to learn more</a>."
+msgstr "Có thể có một vấn đề với giao diện và các đoạn mã trong bảng điều khiển của bạn. Vui lòng kiểm tra <a href=\"%s\" target=\"_blank\"> bài viết này để tìm hiểu thêm </a>."
+
+#: admin/includes/class-settings.php:414
+msgid "If checked, the Advanced Ads Widget will not work with the fixed option of the <strong>Q2W3 Fixed Widget</strong> plugin."
+msgstr "Nếu được chọn, các bảng quảng cáo chi tiết Widget sẽ không làm việc với các tùy chọn cố định của <strong> Q2W3 Fixed Widget </strong> plugin."
+
+#: admin/class-advanced-ads-admin.php:316
+msgid "time of %s"
+msgstr "thời gian %s"
+
+#: admin/includes/class-licenses.php:147
+msgid "This is the bundle license key."
+msgstr "Đây là bản quyền của một nhóm sản phẩm."
+
+#: admin/includes/class-licenses.php:148
+msgid "This is not the correct key for this add-on."
+msgstr "Mã kích hoạt không đúng với plugin này."
+
+#: admin/includes/class-meta-box.php:126 admin/includes/class-meta-box.php:137
+#: admin/includes/class-meta-box.php:142 admin/includes/class-settings.php:455
+#: admin/views/ad-output-metabox.php:51
+msgid "Manual"
+msgstr "Đặt thủ công"
+
+#: admin/includes/class-overview-widgets.php:106
+msgid "<a href=\"%s\" target=\"_blank\">FAQ and Support</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">FAQ và Hỗ trợ</a>"
+
+#: admin/includes/notices.php:53
+msgid "<img src=\"%3$s\" alt=\"Thomas\" width=\"80\" height=\"115\" class=\"advads-review-image\"/>You are using <strong>Advanced Ads</strong> for some time now. Thank you! If you need my help then please visit the <a href=\"%1$s\" target=\"_blank\">Support page</a> to get free help.</p><h3>Thanks for your Review</h3><p>If you share my passion and find Advanced Ads useful then please <a href=\"%2$s\" target=\"_blank\">leave a 5-star review on wordpress.org</a>.</p><p><em>Thomas</em>"
+msgstr "<img src=\"%3$s\" alt=\"Thomas\" width=\"80\" height=\"115\" class=\"advads-review-image\"/> Bạn đang sử dụng <strong> Advanced Ads </strong> một thời gian. Cảm ơn bạn! Nếu bạn cần sự giúp đỡ của tôi, xin vui lòng truy cập vào trang <a href=\"%1$s\" target=\"_blank\">Trang hỗ trợ</a> để được hỗ trợ miễn phí.</p> <h3> Cảm ơn xét của bạn </h3> <p> Nếu bạn thấy Advanced Ads hữu ích, hãy <a href=\"%2$s\" target=\"_blank\"> đánh giá 5 sao trên wordpress.org </a>. </p> <p> <em> Thomas </em>"
+
+#: admin/class-advanced-ads-admin.php:361
+#: admin/includes/class-overview-widgets.php:24
+msgid "Add-Ons"
+msgstr "Các plugin"
+
+#: classes/visitor-conditions.php:92 classes/visitor-conditions.php:132
+msgid "Manual and Troubleshooting"
+msgstr "Đặt thủ công"
+
+#: admin/views/feedback-disable.php:4
+msgid "Why did you decide to disable Advanced Ads?"
+msgstr "Tại sao bạn lại quyết định vô hiệu hóa Advanced Ads?"
+
+#: admin/views/feedback-disable.php:19
+msgid "other reason"
+msgstr "Lý do khác"
+
+#: admin/includes/class-settings.php:437
+msgid "You can assign different ad-related roles on a user basis with <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a>."
+msgstr "Bạn có thể phân công các vai trò khác nhau với từng người dùng với <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a>."
+
+#: admin/includes/notices.php:41
+msgid "Please add valid license keys <a href=\"%s\">here</a>."
+msgstr "Vui lòng điền mã bản quyền <a href=\"%s\">tại đây</a>."
+
+#: admin/views/support.php:7
+msgid "Please fix the red highlighted issues on this page or try to understand their consequences before contacting support."
+msgstr "Hãy sửa các lỗi tô màu đỏ nổi bật ở trang này hoặc cố gắng để hiểu được hậu quả của chúng trước khi liên hệ với hỗ trợ."
+
+#: modules/ad-blocker/admin/admin.php:96
+msgid "Ad blocker fix"
+msgstr "Đã sửa Ad blocker"
+
+#: modules/ad-blocker/admin/admin.php:162
+msgid "The asset folder was rebuilt successfully"
+msgstr "Các thư mục tài nguyên đã được xây dựng lại thành công"
+
+#: modules/ad-blocker/admin/admin.php:223
+msgid "There is no writable upload folder"
+msgstr "Không có thư mục có thể ghi khi tải lên"
+
+#: modules/ad-blocker/admin/admin.php:252
+msgid "Unable to rename \"%s\" directory"
+msgstr "Không thể đổi tên thư mục \"%s\""
+
+#: modules/ad-blocker/admin/admin.php:268
+#: modules/ad-blocker/admin/admin.php:281
+#: modules/ad-blocker/admin/admin.php:298
+msgid "Unable to copy assets to the \"%s\" directory"
+msgstr "Không thể sao chép các tài nguyên vào thư mục \"%s\""
+
+#: modules/ad-blocker/admin/admin.php:331
+#: modules/ad-blocker/admin/admin.php:351
+msgid "We do not have direct write access to the \"%s\" directory"
+msgstr "Chúng tôi không có quyền trực tiếp ghi vào thư mục \"%s\""
+
+#: modules/ad-blocker/admin/admin.php:417
+msgid "Unable to create \"%s\" directory. Is its parent directory writable by the server?"
+msgstr "Không thể để tạo ra thư mục \"%s\". Thư mục cha của nó có sửa được trên máy chủ?"
+
+#: modules/ad-blocker/admin/admin.php:428
+msgid "Unable to copy files to %s"
+msgstr "Không thể Copy files vào %s"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:1
+msgid "Ad blocker file folder"
+msgstr "Thư mục Ad blocker"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:10
+msgid "Upload folder is not writable"
+msgstr "Thư mục tải lên không ghi được"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:23
+msgid "Asset path"
+msgstr "Đường dẫn tài nguyên"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:27
+msgid "Asset URL"
+msgstr "URL tài nguyên"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:34
+msgid "Check if you want to change the names of the assets"
+msgstr "Kiểm tra nếu bạn muốn thay đổi tên của các tài nguyên"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:43
+msgid "Please, rebuild the asset folder. All assets will be located in <strong>%s</strong>"
+msgstr "Xin vui lòng, xây dựng lại các thư mục tài nguyên. Tất cả được đặt tại <strong>%s</strong>"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:46
+msgid "Rebuild asset folder"
+msgstr "Xây dựng lại thư mục tài nguyên"
+
+#: modules/ad-blocker/admin/views/setting-use-adblocker.php:6
+msgid "Prevents ad block software from breaking your website when blocking asset files (.js, .css)."
+msgstr "Ngăn chặn các phần mềm chặn quảng cáo làm hỏng website khi chặn các files tài nguyên (.js, .css)."
+
+#: admin/includes/notices.php:41
+msgid "One or more license keys for <strong>Advanced Ads add-ons are invalid or missing</strong>."
+msgstr "Một hoặc nhiều mã bản quyền <strong> Advanced Ads và Plugin không hợp lệ hoặc thiếu </strong>."
+
+#: classes/visitor-conditions.php:98
+msgid "Display ads by the available space on the device or target tablets with the <a href=\"%s\" target=\"_blank\">Responsive add-on</a>"
+msgstr "Hiển thị quảng cáo theo không gian có sẵn trên thiết bị hoặc máy tính bảng nhắm mục tiêu với <a href=\"%s\" target=\"_blank\"> Phần mở rộng tương thích (Responsive Add-on) </a>"
+
+#: admin/includes/class-settings.php:150
+msgid "Allow editors to manage ads"
+msgstr "Cho phép biên tập viên quản lý quảng cáo"
+
+#: admin/includes/class-settings.php:436
+msgid "Allow editors to also manage and publish ads."
+msgstr "Cho phép biên tập viên quản lý và tạo quảng cáo."
+
+#: classes/checks.php:244
+msgid "Possible conflict between jQueryUI library, used by Advanced Ads and other libraries (probably <a href=\"%s\">Twitter Bootstrap</a>). This might lead to misfortunate formats in forms, but should not damage features."
+msgstr "Có thể có xung đột giữa các thư viện jQueryUI, được sử dụng bởi Advanced Ads và các thư viện khác (có lẽ <a href=\"%s\">Twitter Bootstrap</a>). Điều này có thể dẫn đến sai sót trong định dạng, nhưng sẽ không làm thay đổi chức năng."
+
+#: admin/includes/class-ad-groups-list.php:203
+#: admin/views/ad-list-timing-column.php:30
+msgid "<strong>expired</strong> %s"
+msgstr "<strong>hết hạn</strong> %s"
+
+#: admin/includes/class-ad-type.php:184
+msgid "any expiry date"
+msgstr "bất kỳ ngày hết hạn nào"
+
+#: admin/includes/class-ad-type.php:185
+msgid "planned"
+msgstr "đã lên kế hoạch"
+
+#: admin/views/ad-list-filters.php:2
+msgid "all ad types"
+msgstr "tất cả các loại quảng cáo"
+
+#: admin/views/ad-list-filters.php:5
+msgid "all ad sizes"
+msgstr "tất cả các kích thước quảng cáo"
+
+#: admin/views/ad-list-filters.php:8
+msgid "all ad dates"
+msgstr "tất cả các ngày quảng cáo"
+
+#: admin/views/ad-list-filters.php:16
+msgid "all ad groups"
+msgstr "tất cả các nhóm quảng cáo"
+
+#: classes/ad_placements.php:65
+msgid "Sidebar Widget"
+msgstr "Sidebar Widget"
+
+#: classes/ad_placements.php:66
+msgid "Create a sidebar widget with an ad. Can be placed and used like any other widget."
+msgstr "Tạo quảng cáo với Sidebar Widget. Có thể sử dung như một Widget thông thường."
+
+#: admin/includes/class-ad-groups-list.php:186
+#: admin/views/ad-list-timing-column.php:4
+msgid "starts %s"
+msgstr "bắt đầu %s"
+
+#: admin/includes/class-ad-groups-list.php:201
+#: admin/views/ad-list-timing-column.php:28
+msgid "expires %s"
+msgstr "kết thúc %s"
+
+#: admin/includes/class-ad-type.php:81 admin/includes/class-ad-type.php:86
+msgid "Ad Planning"
+msgstr "Kế hoạch quảng cáo"
+
+#: admin/includes/class-licenses.php:106 admin/views/setting-license.php:49
+msgid "Please enter a valid license key"
+msgstr "Vui lòng nhập một mã kích hoạt hợp lệ"
+
+#: admin/includes/class-licenses.php:218
+msgid "Error while trying to disable the license. Please contact support."
+msgstr "Lỗi trong quá trình hủy đăng ký ký bản quyền. Vui lòng liên hệ hỗ trợ."
+
+#: admin/includes/class-settings.php:330
+msgid "Please check your post content. A priority of 10 and below might cause issues (wpautop function might run twice)."
+msgstr "Vui lòng kiểm tra nội dung bài viết của bạn. Ưu tiên mức 10 và dưới đây có thể gây ra các vấn đề (chức năng wpautop có thể chạy hai lần)."
+
+#: admin/includes/shortcode-creator-l10n.php:10
+msgctxt "shortcode creator"
+msgid "Add an ad"
+msgstr "Thêm một quảng cáo"
+
+#: admin/includes/shortcode-creator-l10n.php:11
+msgctxt "shortcode creator"
+msgid "Add shortcode"
+msgstr "Thêm shortcode"
+
+#: admin/includes/shortcode-creator-l10n.php:12
+msgctxt "shortcode creator"
+msgid "Cancel"
+msgstr "Hủy"
+
+#: admin/views/support.php:35
+msgid "Ads are disabled for all or some pages. See \"disabled ads\" in <a href=\"%s\">settings</a>."
+msgstr "Quảng cáo được tắt cho tất cả hoặc một số trang. Xem \"tắt quảng cáo\" trong <a href=\"%s\">cài đặt</a>."
+
+#: modules/gadsense/admin/admin.php:221
+msgid "Due to technical restrictions, the limit does not work on placements with cache-busting enabled."
+msgstr "Do hạn chế về kỹ thuật, giới hạn không làm việc với các vị trí với có bộ nhớ cache-busting đang kích hoạt."
+
+#: admin/views/setting-license.php:41
+msgid "Deactivate License"
+msgstr "Huỷ bản quyền"
+
+#: classes/ad_type_image.php:34
+msgid "Image Ad"
+msgstr "Ảnh quảng cáo"
+
+#: classes/ad_type_image.php:35
+msgid "Ads in various image formats."
+msgstr "Quảng cáo nhiều định dạng ảnh."
+
+#: admin/views/ad-output-metabox.php:35
+msgid "container ID"
+msgstr "ID của phần chứa nội dung"
+
+#: admin/views/ad-output-metabox.php:38
+msgid "Specify the id of the ad container. Leave blank for random or no id."
+msgstr "Chỉ định id của vùng chứa quảng cáo. Để trống cho id ngẫu nhiên hay không có id."
+
+#: admin/views/ad-output-metabox.php:41
+msgid "container classes"
+msgstr "lớp của vùng chứa quảng cáo"
+
+#: admin/views/support.php:32
+msgid "Plugins that are known to cause (partial) problems: <strong>%1$s</strong>. <a href=\"%2$s\" target=\"_blank\">Learn more</a>."
+msgstr "Plugins được biết là gây ra (một phần) các vấn đề: <strong>%1$s</strong>. <a href=\"%2$s\" target=\"_blank\">Tìm hiểu thêm </a>."
+
+#: classes/ad_type_image.php:55
+msgid "Insert"
+msgstr "Chèn"
+
+#: classes/ad_type_image.php:55
+msgid "Insert File"
+msgstr "Chèn File"
+
+#: classes/ad_type_image.php:56
+msgid "edit"
+msgstr "sửa"
+
+#: classes/ad_type_image.php:55
+msgid "select image"
+msgstr "chọn ảnh"
+
+#: admin/views/ad-output-metabox.php:44
+msgid "Specify one or more classes for the container. Separate multiple classes with a space"
+msgstr "Chỉ định một hoặc nhiều lớp cho vùng chứa. Tách riêng nhiều lớp với một không gian"
+
+#: modules/gadsense/includes/class-gadsense-data.php:40
+msgid "Auto"
+msgstr "Tự động"
+
+#: classes/ad-debug.php:121 public/class-advanced-ads.php:581
+msgctxt "ad group singular name"
+msgid "Ad Group"
+msgstr "Nhóm quảng cáo"
+
+#: public/class-advanced-ads.php:317
+msgid "Advanced Ads Error following:"
+msgstr "Lỗi Advanced Ads:"
+
+#: public/class-advanced-ads.php:320
+msgid "Advanced Ads Error: %s"
+msgstr "Lỗi quảng cáo: %s"
+
+#: public/class-advanced-ads.php:582
+msgid "Search Ad Groups"
+msgstr "Tìm kiếm nhóm quảng cáo"
+
+#: public/class-advanced-ads.php:583
+msgid "All Ad Groups"
+msgstr "Tất cả nhóm quảng cáo"
+
+#: public/class-advanced-ads.php:584
+msgid "Parent Ad Groups"
+msgstr "Nhóm quảng cáo mẹ"
+
+#: public/class-advanced-ads.php:585
+msgid "Parent Ad Groups:"
+msgstr "Nhóm quảng cáo mẹ:"
+
+#: public/class-advanced-ads.php:586
+msgid "Edit Ad Group"
+msgstr "Sửa nhóm quảng cáo"
+
+#: public/class-advanced-ads.php:587
+msgid "Update Ad Group"
+msgstr "Cập nhật nhóm quảng cáo"
+
+#: public/class-advanced-ads.php:588
+msgid "Add New Ad Group"
+msgstr "Thêm nhóm quảng cáo"
+
+#: public/class-advanced-ads.php:589
+msgid "New Ad Groups Name"
+msgstr "Tên nhóm quảng cáo mới"
+
+#: public/class-advanced-ads.php:591
+msgid "No Ad Group found"
+msgstr "Không tìm thấy nhóm quảng cáo nào"
+
+#: admin/includes/class-menu.php:79 admin/views/ad-group-list-ads.php:17
+#: public/class-advanced-ads.php:619 public/class-advanced-ads.php:623
+msgid "New Ad"
+msgstr "Quảng cáo mới"
+
+#: admin/includes/class-menu.php:79 public/class-advanced-ads.php:620
+msgid "Add New Ad"
+msgstr "Thêm quảng cáo mới"
+
+#: public/class-advanced-ads.php:622
+msgid "Edit Ad"
+msgstr "Sửa quảng cáo"
+
+#: public/class-advanced-ads.php:624
+msgid "View"
+msgstr "Xem"
+
+#: public/class-advanced-ads.php:625
+msgid "View the Ad"
+msgstr "Xem quảng cáo"
+
+#: public/class-advanced-ads.php:626
+msgid "Search Ads"
+msgstr "Tìm kiếm quảng cáo"
+
+#: public/class-advanced-ads.php:627
+msgid "No Ads found"
+msgstr "Không tìm được quảng cáo nào"
+
+#: public/class-advanced-ads.php:628
+msgid "No Ads found in Trash"
+msgstr "Không tìm thấy quảng cáo trong thùng rác"
+
+#: public/class-advanced-ads.php:629
+msgid "Parent Ad"
+msgstr "Quảng cáo mẹ"
+
+#: modules/gadsense/main.php:19
+msgid " at "
+msgstr "tại"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:35
+msgid "AdSense ad"
+msgstr "Quảng cáo Adsense"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:36
+msgid "Use ads from your Google AdSense account"
+msgstr "Sử dụng quảng cáo từ tài khoản Google AdSense của bạn"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:108
+msgid "Your AdSense Publisher ID is missing."
+msgstr "ID nhà xuất bản AdSense của bạn thiếu."
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Ads"
+msgstr "Advanced Ads"
+
+#. Description of the plugin/theme
+msgid "Manage and optimize your ads in WordPress"
+msgstr "Manage and optimize your ads in WordPress"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpadvancedads.com"
+msgstr "https://wpadvancedads.com"
+
+#. Author of the plugin/theme
+msgid "Thomas Maier"
+msgstr "Thomas Maier"
+
+#. Author URI of the plugin/theme
+msgid "http://webgilde.com"
+msgstr "http://webgilde.com"
+
+#: classes/widget.php:61
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: classes/display-conditions.php:538 includes/array_ad_conditions.php:78
+msgid "Search Results"
+msgstr "Kết quả tìm kiếm"
+
+#: includes/array_ad_conditions.php:39
+msgid "Post Types"
+msgstr "Loại bài đăng"
+
+#: classes/display-conditions.php:523 includes/array_ad_conditions.php:63
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#: admin/views/placement-injection-top.php:14 classes/ad_placements.php:47
+msgid "Before Content"
+msgstr "Trước Nội dung"
+
+#: classes/ad_placements.php:48
+msgid "Injected before the post content."
+msgstr "Thêm vào trước nội dung bài."
+
+#: admin/views/placement-injection-top.php:16 classes/ad_placements.php:53
+msgid "After Content"
+msgstr "Sau Nội dung"
+
+#: classes/ad_placements.php:54
+msgid "Injected after the post content."
+msgstr "Thêm vào sau nội dung."
+
+#: classes/ad_placements.php:60
+msgid "Injected into the content. You can choose the paragraph after which the ad content is displayed."
+msgstr "Chèn vào nội dung. Bạn có thể chọn các đoạn văn sau đó nội dung quảng cáo được hiển thị."
+
+#: classes/ad_placements.php:219
+msgid "paragraph (%s)"
+msgstr "đoạn (%s)"
+
+#: classes/ad_placements.php:221
+msgid "headline 2 (%s)"
+msgstr "phụ đề 2 (%s)"
+
+#: classes/ad_placements.php:222
+msgid "headline 3 (%s)"
+msgstr "phụ đề 3 (%s)"
+
+#: classes/ad_placements.php:223
+msgid "headline 4 (%s)"
+msgstr "phụ đề 4 (%s)"
+
+#: classes/ad_type_content.php:35
+msgid "Rich Content"
+msgstr "Nội dung đa dạng"
+
+#: classes/ad_type_content.php:36
+msgid "The full content editor from WordPress with all features like shortcodes, image upload or styling, but also simple text/html mode for scripts and code."
+msgstr "Trình biên tập nội dung đầy đủ từ WordPress với tất cả các tính năng như mã ngắn, tải lên hình ảnh hoặc định dạng, nhưng cũng có chế độ văn bản đơn giản/html cho mã và tập lệnh."
+
+#: classes/ad_type_plain.php:31
+msgid "Plain Text and Code"
+msgstr "Văn bản thuần túy"
+
+#: classes/ad_type_plain.php:32
+msgid "Simple text editor without any filters. You might use it to display unfiltered content, php code or javascript. Shortcodes and other WordPress content field magic does not work here."
+msgstr "Soạn thảo văn bản đơn giản mà không sử dụng bộ lọc. Bạn có thể sử dụng nó để hiển thị nội dung không được lọc, mã php hoặc javascript. Mã rút gọn và dữ liệu WordPress khác không được hỗ trợ."
+
+#: classes/ad_type_plain.php:52
+msgid "Insert plain text or code into this field."
+msgstr "Chèn văn bản đơn giản hoặc mã vào trường này."
+
+#: classes/display-conditions.php:224 classes/display-conditions.php:277
+#: classes/display-conditions.php:332 classes/display-conditions.php:449
+#: classes/visitor-conditions.php:126
+msgid "is"
+msgstr "là"
+
+#: classes/display-conditions.php:225 classes/display-conditions.php:278
+#: classes/display-conditions.php:333 classes/display-conditions.php:450
+#: classes/visitor-conditions.php:127
+msgid "is not"
+msgstr "không là"
+
+#: classes/display-conditions.php:524 includes/array_ad_conditions.php:64
+msgid "show on Home page"
+msgstr "Hiển thị trên trang chủ"
+
+#: classes/display-conditions.php:528 includes/array_ad_conditions.php:68
+msgid "Singular Pages"
+msgstr "Từ trang"
+
+#: classes/display-conditions.php:529 includes/array_ad_conditions.php:69
+msgid "show on singular pages/posts"
+msgstr "Hiển thị trên từng trang/bài viết"
+
+#: classes/display-conditions.php:533 includes/array_ad_conditions.php:73
+msgid "Archive Pages"
+msgstr "Lưu trữ"
+
+#: classes/display-conditions.php:534 includes/array_ad_conditions.php:74
+msgid "show on any type of archive page (category, tag, author and date)"
+msgstr "Hiển thị trên tất cả các trang lưu trữ (danh mục, từ khóa, tác giả và ngày)"
+
+#: classes/display-conditions.php:539 includes/array_ad_conditions.php:79
+msgid "show on search result pages"
+msgstr "Hiển thị trên trang tìm kiếm"
+
+#: classes/display-conditions.php:543 includes/array_ad_conditions.php:83
+msgid "404 Page"
+msgstr "404: Trang không tồn tại"
+
+#: classes/display-conditions.php:544 includes/array_ad_conditions.php:84
+msgid "show on 404 error page"
+msgstr "hiển trị trên trang 404: Trang không tồn tại"
+
+#: classes/display-conditions.php:548 includes/array_ad_conditions.php:88
+msgid "Attachment Pages"
+msgstr "Trang có dữ liệu đính kèm"
+
+#: classes/display-conditions.php:549 includes/array_ad_conditions.php:89
+msgid "show on attachment pages"
+msgstr "Hiển thị ở trang có dữ liệu đính kèm"
+
+#: classes/display-conditions.php:553 includes/array_ad_conditions.php:93
+msgid "Secondary Queries"
+msgstr "Các truy xuất thứ hai"
+
+#: classes/display-conditions.php:554 includes/array_ad_conditions.php:94
+msgid "allow ads in secondary queries"
+msgstr "Cho hiển thị quảng cáo ở các truy xuất thứ hai"
+
+#: classes/visitor-conditions.php:33
+msgid "Display ads only on mobile devices or hide them."
+msgstr "Hiển thị quảng cáo trên thiết bị di động hoặc ẩn"
+
+#: classes/visitor-conditions.php:39
+msgid "logged in visitor"
+msgstr "khách đã đăng nhập"
+
+#: classes/visitor-conditions.php:40
+msgid "Whether the visitor has to be logged in or not in order to see the ads."
+msgstr "Xem điều kiện xem khách đã đăng nhập có thấy quảng cáo hay không."
+
+#: classes/visitor-conditions.php:161
+msgid "equal"
+msgstr "bằng"
+
+#: classes/visitor-conditions.php:162
+msgid "equal or higher"
+msgstr "bằng hoặc lớn hơn"
+
+#: classes/visitor-conditions.php:163
+msgid "equal or lower"
+msgstr "bằng hoặc nhỏ hơn"
+
+#: classes/visitor-conditions.php:194
+msgid "contains"
+msgstr "bao gồm"
+
+#: classes/visitor-conditions.php:195
+msgid "starts with"
+msgstr "bắt đầu với"
+
+#: classes/visitor-conditions.php:196
+msgid "ends with"
+msgstr "kết thúc với"
+
+#: classes/visitor-conditions.php:197
+msgid "matches"
+msgstr "khớp nhau"
+
+#: classes/visitor-conditions.php:198
+msgid "matches regex"
+msgstr "điều kiện khớp"
+
+#: classes/visitor-conditions.php:199
+msgid "does not contain"
+msgstr "không bao gồm"
+
+#: classes/visitor-conditions.php:200
+msgid "does not start with"
+msgstr "không bắt đầu với"
+
+#: classes/visitor-conditions.php:201
+msgid "does not end with"
+msgstr "không kết thúc với"
+
+#: classes/visitor-conditions.php:202
+msgid "does not match"
+msgstr "không khớp"
+
+#: classes/visitor-conditions.php:203
+msgid "does not match regex"
+msgstr "điều kiện không khớp"
+
+#: classes/widget.php:22
+msgid "Display Ads and Ad Groups."
+msgstr "Hiển thị quảng cáo và nhóm quảng cáo"
+
+#: admin/includes/class-shortcode-creator.php:82 classes/widget.php:67
+msgid "--empty--"
+msgstr "--trống--"
+
+#: modules/gadsense/admin/admin.php:27
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:59
+msgid "Responsive"
+msgstr "Tùy biến"
+
+#: modules/gadsense/admin/admin.php:45
+msgid "The ad details couldn't be retrieved from the ad code"
+msgstr "Các chi tiết quảng cáo không thể được lấy từ các mã quảng cáo"
+
+#: modules/gadsense/admin/admin.php:46
+msgid "Warning : The AdSense account from this code does not match the one set with the Advanced Ads Plugin. This ad might cause troubles when used in the front end."
+msgstr "Cảnh báo: Tài khoản AdSense từ mã này không phù hợp với một thiết lập ở Plugin Advanced Ads. Quảng cáo này có thể gây ra rắc rối khi sử dụng và hiển thị."
+
+#: modules/gadsense/admin/admin.php:124 modules/gadsense/admin/admin.php:302
+msgid "AdSense"
+msgstr "AdSense"
+
+#: modules/gadsense/admin/admin.php:132
+msgid "AdSense ID"
+msgstr "AdSense ID"
+
+#: modules/gadsense/admin/admin.php:141
+msgid "Limit to 3 ads"
+msgstr "Giới hạn 3 quảng cáo"
+
+#: modules/gadsense/admin/admin.php:150
+msgid "Activate Page-Level ads"
+msgstr "Kích hoạt quảng cáo trang"
+
+#: modules/gadsense/admin/admin.php:187
+msgid "Please enter your Publisher ID in order to use AdSense on your page. See the <a href=\"%s\" target=\"_blank\">manual</a> for more information."
+msgstr "Vui lòng nhập ID nhà xuất bản của bạn để sử dụng AdSense trên trang của bạn. Xem <a href=\"%s\" target=\"_blank\">hướng dẫn</a> để biết thêm thông tin."
+
+#: modules/gadsense/admin/admin.php:201
+msgid "Your AdSense Publisher ID <em>(pub-xxxxxxxxxxxxxx)</em>"
+msgstr "Mã AdSense Publisher ID của bạn <em>(pub-xxxxxxxxxxxxxx)</em>"
+
+#: modules/gadsense/admin/admin.php:213
+msgid "Limit to %d AdSense ads"
+msgstr "Giới hạn %d quảng cáo AdSense"
+
+#: modules/gadsense/admin/admin.php:235
+msgid "Insert Page-Level ads code on all pages."
+msgstr "Chèn trang mã quảng cáo trên tất cả các trang."
+
+#: modules/gadsense/admin/admin.php:280
+#: modules/gadsense/includes/class-ad-type-adsense.php:73
+msgid "The Publisher ID has an incorrect format. (must start with \"pub-\")"
+msgstr "ID nhà xuất bản có định dạng không đúng. (Phải bắt đầu với \"pub-\")"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:26
+msgid "Get details"
+msgstr "Xem chi tiết"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:35
+msgid "Ad Slot ID"
+msgstr "Ad Slot ID"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:40
+msgid "Publisher ID: %s"
+msgstr "Publisher ID: %s"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:52
+msgid "Please <a href=\"%s\" target=\"_blank\">change it here</a>."
+msgstr "Vui long <a href=\"%s\" target=\"_blank\">thay đổi tại đây</a>."
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:58
+msgid "Normal"
+msgstr "Thông thường"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:73
+msgid "Resizing"
+msgstr "Thay đổi kích thước"
+
+#: classes/ad_type_plain.php:89
+msgid "Execute PHP code (wrapped in <code>&lt;?php ?&gt;</code>)"
+msgstr "Thực thi mã PHP (đặt trong <code>&lt;?php ?&gt;</code>)"
+
+#: includes/array_ad_conditions.php:51
+msgid "Category Archives"
+msgstr "Danh mục lưu trữ"
+
+#: includes/array_ad_conditions.php:45
+msgid "Categories, Tags and Taxonomies"
+msgstr "Danh mục, Tags và Taxonomies"
+
+#: includes/array_ad_conditions.php:52
+msgid "comma seperated IDs of category archives"
+msgstr "ID và danh mục lưu trữ được phân tách bằng dấu phẩy"
+
+#: includes/array_ad_conditions.php:46
+msgid "Choose terms from public category, tag and other taxonomies a post must belong to in order to have ads."
+msgstr "Chọn terms từ danh mục công khai, thẻ và các loại taxonomies khác mà một bài đăng phải thuộc về để có quảng cáo."
+
+#: includes/array_ad_conditions.php:57
+msgid "Individual Posts, Pages and Public Post Types"
+msgstr "Các bài viết cá nhân, các trang và các loại bài đăng công khai"
+
+#: modules/gadsense/admin/admin.php:236
+msgid "You still need to enable Page-Level ads in your AdSense account. See <a href=\"https://support.google.com/adsense/answer/6245304\" target=\"_blank\">AdSense Help</a> (requires AdSense-login) for more information."
+msgstr "Bạn vẫn cần bật quảng cáo Cấp trang trong tài khoản AdSense của mình. Xem <a href=\"https://support.google.com/adsense/answer/6245304\" target=\"_blank\"> Trợ giúp của AdSense </a> (yêu cầu đăng nhập AdSense) để biết thêm thông tin."
+
+#: admin/views/ad-submitbox-meta.php:23
+msgid "Hour"
+msgstr "Thời gian"
+
+#: classes/ad_placements.php:31
+msgid "Manual Placement"
+msgstr "Đặt thủ công"
+
+#: classes/ad_placements.php:32
+msgid "Manual placement to use as function or shortcode."
+msgstr "Đặt thủ công theo tính năng hoặc shortcode."
+
+#: classes/ad_placements.php:37
+msgid "Header Code"
+msgstr "Mã trong tiêu đề"
+
+#: classes/ad_placements.php:38
+msgid "Injected in Header (before closing &lt;/head&gt; Tag, often not visible)."
+msgstr "Thêm vào mục tiêu đề (trước &lt;/head&gt; Tag, thường không hiển thị)."
+
+#: classes/ad_placements.php:42
+msgid "Footer Code"
+msgstr "Mã trong chân trang"
+
+#: classes/ad_placements.php:43
+msgid "Injected in Footer (before closing &lt;/body&gt; Tag)."
+msgstr "Thêm vào chân trang (trước &lt;/body&gt; Tag)."
+
+#: admin/views/ad-display-metabox.php:80 admin/views/ad-visitor-metabox.php:54
+msgid "New condition"
+msgstr "Điều kiện mới"
+
+#: admin/views/ad-display-metabox.php:83 admin/views/ad-visitor-metabox.php:57
+msgid "-- choose a condition --"
+msgstr "-- chọn một điều kiện --"
+
+#: admin/views/ad-display-metabox.php:88 admin/views/ad-group-list-ads.php:24
+#: admin/views/ad-visitor-metabox.php:64
+msgid "add"
+msgstr "thêm"
+
+#: admin/views/ad-group.php:29
+msgid "Ad Groups successfully updated"
+msgstr "Nhóm quảng cáo đã được cập nhật"
+
+#: admin/views/ad-group.php:59
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Kết quả tìm kiếm &#8220;%s&#8221;"
+
+#: admin/views/ad-group.php:68
+msgid "Ad Groups are a very flexible method to bundle ads. You can use them to display random ads in the frontend or run split tests, but also just for informational purposes. Not only can an Ad Groups have multiple ads, but an ad can belong to multiple ad groups."
+msgstr "Nhóm Quảng cáo là một phương pháp rất linh hoạt để nhóm các quảng cáo. Bạn có thể sử dụng chúng để hiển thị quảng cáo ngẫu nhiên trên trang hoặc chạy thử nghiệm, nhưng cũng chỉ cho mục đích thông tin. Một nhóm có thể bao gồm nhiều quảng cáo và một quảng cáo cũng có thể nằm ở nhiều nhóm."
+
+#: admin/views/ad-group.php:96
+msgid "Update Groups"
+msgstr "Cập nhật Nhóm"
+
+#: admin/views/placement-injection-top.php:68
+msgid "Learn more about your choices to display an ad in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "Tìm hiểu thêm về lựa chọn để hiển thị một quảng cáo trong <a href=\"%s\" target=\"_blank\">hướng dẫn</a>."
+
+#: admin/views/ad-info.php:2
+msgid "Ad Id: %s"
+msgstr "Ad Id: %s"
+
+#: admin/views/ad-info.php:5
+msgid "theme function"
+msgstr "chức năng theme"
+
+#: admin/views/ad-info.php:7
+msgid "Find more display options in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "Tìm tùy chọn hiển thị ở những <a href=\"%s\" target=\"_blank\">hướng dẫn</a>."
+
+#: admin/views/ad-info.php:11
+msgid "click to change"
+msgstr "Click để thay đổi"
+
+#: admin/views/ad-info.php:15
+msgid "Add a description"
+msgstr "Thêm một mô tả"
+
+#: admin/views/ad-info.php:18
+msgid "Internal description or your own notes about this ad."
+msgstr "Mô tả nội hoặc ghi chú của riêng bạn về quảng cáo này."
+
+#: admin/views/ad-main-metabox.php:3
+msgid "No ad types defined"
+msgstr "Không có loại quảng cáo được xác định"
+
+#: admin/views/ad-output-metabox.php:1
+msgid "Everything connected to the ads layout and output."
+msgstr "Tất cả mọi thứ được kết nối với cách bố trí quảng cáo và kết quả."
+
+#: admin/views/ad-output-metabox.php:4
+#: admin/views/placements-ad-label-position.php:1
+msgid "Position"
+msgstr "Ví trị"
+
+#: admin/views/ad-output-metabox.php:6
+msgid "- default -"
+msgstr "- mặc định -"
+
+#: admin/views/ad-output-metabox.php:7
+#: admin/views/placements-ad-label-position.php:2
+#: admin/views/placements-ad-label-position.php:4
+#: admin/views/placements-ad-label.php:1 admin/views/placements-ad-label.php:3
+#: admin/views/placements.php:53
+msgid "default"
+msgstr "mặc định"
+
+#: admin/views/ad-output-metabox.php:8
+#: admin/views/placements-ad-label-position.php:6
+#: admin/views/placements-ad-label-position.php:8
+msgid "left"
+msgstr "trái"
+
+#: admin/views/ad-output-metabox.php:11
+#: admin/views/placements-ad-label-position.php:9
+#: admin/views/placements-ad-label-position.php:11
+msgid "center"
+msgstr "giữa"
+
+#: admin/views/ad-output-metabox.php:14
+#: admin/views/placements-ad-label-position.php:12
+#: admin/views/placements-ad-label-position.php:14
+msgid "right"
+msgstr "phải"
+
+#: admin/views/ad-output-metabox.php:18
+msgid "Check this if you don't want the following elements to float around the ad. (adds a clearfix)"
+msgstr "Chọn nếu bạn không muốn các yếu tố bên dưới quảng cáo để nổi xung quanh các quảng cáo."
+
+#: admin/views/ad-output-metabox.php:22
+msgid "Margin"
+msgstr "Lề"
+
+#: admin/views/ad-output-metabox.php:24
+msgid "top:"
+msgstr "trên:"
+
+#: admin/views/ad-output-metabox.php:26
+msgid "right:"
+msgstr "phải:"
+
+#: admin/views/ad-output-metabox.php:28
+msgid "bottom:"
+msgstr "dưới:"
+
+#: admin/views/ad-output-metabox.php:30
+msgid "left:"
+msgstr "trái:"
+
+#: admin/views/ad-output-metabox.php:32
+msgid "tip: use this to add a margin around the ad"
+msgstr "Hướng dẫn: sử dụng để thêm một khoảng trắng xung quanh quảng cáo"
+
+#: admin/views/ad-parameters-size.php:3
+msgid "width"
+msgstr "rộng"
+
+#: admin/views/ad-parameters-size.php:4
+msgid "height"
+msgstr "cao"
+
+#: admin/views/ad-submitbox-meta.php:6
+msgid "Set expiry date"
+msgstr "Thiết lập ngày hết hạn"
+
+#: admin/views/ad-submitbox-meta.php:16
+msgctxt "1: month number (01, 02, etc.), 2: month abbreviation"
+msgid "%1$s-%2$s"
+msgstr "%1$s-%2$s"
+
+#: admin/views/ad-submitbox-meta.php:29
+msgctxt "order of expiry date fields 1: month, 2: day, 3: year, 4: hour, 5: minute"
+msgid "%1$s %2$s, %3$s @ %4$s %5$s"
+msgstr "%1$s %2$s, %3$s @ %4$s %5$s"
+
+#: admin/views/ad-visitor-metabox.php:12
+msgid "Display conditions that are based on the user. Use with caution on cached websites."
+msgstr "Điều kiện hiển thị đang dựa vào người sử dụng. Sử dụng thận trọng trên các trang lưu trữ cache"
+
+#: admin/views/ad-visitor-metabox.php:47
+msgid "Visitor conditions limit the number of users who can see your ad. There is no need to set visitor conditions if you want all users to see the ad."
+msgstr "Điều kiện người dùng hạn chế số lượng người dùng có thể nhìn thấy quảng cáo. Không cần đặt điều kiện khách truy cập nếu bạn muốn tất cả người dùng xem quảng cáo."
+
+#: admin/views/ad-visitor-metabox.php:50
+msgid "Check out cache-busting in <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> if dynamic features get cached."
+msgstr "Xem thêm về cache-busting trong <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> để xem các tính năng động được lưu cached."
+
+#: admin/views/ad-visitor-metabox.php:69
+msgid "Define the exact browser width for which an ad should be visible using the <a href=\"%s\" target=\"_blank\">Responsive add-on</a>."
+msgstr "Xác định chiều rộng của trình duyệt chính xác mà một quảng cáo nên được nhìn thấy bằng cách sử dụng <a href=\"%s\" target=\"_blank\">Responsive add-on</a>."
+
+#: admin/views/ad-visitor-metabox.php:115
+msgid "The visitor conditions below are deprecated. Please use the new version of visitor conditions to replace it."
+msgstr "Các điều kiện khách truy cập dưới đây đã không còn được hỗ trợ. Vui lòng sử dụng phiên bản mới của điều kiện truy cập để thay thế nó."
+
+#: admin/views/ad-visitor-metabox.php:121
+msgid "Display on all devices"
+msgstr "Hiển thị trên mọi thiết bị"
+
+#: admin/views/ad-visitor-metabox.php:125
+msgid "only on mobile devices"
+msgstr "chỉ trên các thiết bị di động"
+
+#: admin/views/ad-visitor-metabox.php:129
+msgid "not on mobile devices"
+msgstr "không phải trên thiết bị di động"
+
+#: admin/views/placements-content-index.php:1
+msgid "after"
+msgstr "sau"
+
+#: admin/views/placements-content-index.php:1
+msgid "before"
+msgstr "trước"
+
+#: admin/views/placements-content-index.php:21
+msgid "start counting from bottom"
+msgstr "bắt đầu đếm từ dưới"
+
+#: admin/views/placements-item.php:2 admin/views/placements.php:187
+msgid "--not selected--"
+msgstr "--không được chọn--"
+
+#: admin/views/placements.php:8
+msgid "Couldn’t create the new placement. Please check your form field and whether the name is already in use."
+msgstr "Không thể tạo vị trí mới. Vui lòng kiểm tra lại thông tin và xem các tên đã được sử dụng."
+
+#: admin/views/placements.php:10
+msgid "Placements updated"
+msgstr "Vị trí được cập nhật"
+
+#: admin/views/placements.php:14
+msgid "Placements are physically places in your theme and posts. You can use them if you plan to change ads and ad groups on the same place without the need to change your templates."
+msgstr "Vị trí quảng cáo nằm trong theme và bài viết. Bạn có thể sử dụng chúng nếu bạn có kế hoạch để thay đổi quảng cáo và nhóm quảng cáo trên cùng một vị trí mà không cần phải thay đổi các mẫu của bạn."
+
+#: admin/views/placements.php:15
+msgid "See also the manual for more information on <a href=\"%s\">placements</a>."
+msgstr "Xem thêm hướng dẫn để biết thêm thông tin về <a href=\"%s\">vị trí quảng cáo</a>."
+
+#: admin/views/placements.php:25 modules/import-export/views/page.php:26
+msgid "Options"
+msgstr "Lựa chọn"
+
+#: admin/views/placements.php:59
+msgid "show usage"
+msgstr "xem việc sử dụng"
+
+#: admin/views/placements.php:83
+msgid "Item"
+msgstr "Mục"
+
+#: admin/views/placements.php:98
+msgid "Important Notice"
+msgstr "Lưu ý quan trọng"
+
+#: admin/views/placements.php:142
+msgctxt "checkbox to remove placement"
+msgid "delete"
+msgstr "xóa"
+
+#: admin/views/placements.php:149
+msgid "Save Placements"
+msgstr "Lưu vị trí quảng cáo"
+
+#: admin/views/placements.php:151
+msgid "Create a new placement"
+msgstr "Tạo vị trí quảng cáo mới"
+
+#: admin/views/placements.php:152
+msgid "New Placement"
+msgstr "Vị trí quảng cáo mới"
+
+#: admin/views/placements.php:160
+msgid "Choose a placement type"
+msgstr "Chọn loại vị trí quảng cáo"
+
+#: admin/views/placements.php:161
+msgid "Placement types define where the ad is going to be displayed. Learn more about the different types from the <a href=\"%s\">manual</a>"
+msgstr "Loại vị trí xác định nơi quảng cáo sẽ được hiển thị. Tìm hiểu thêm về các loại khác nhau từ <a href=\"%s\">hướng dẫn</a>"
+
+#: admin/views/placements.php:178
+msgid "Please select a placement type."
+msgstr "Chọn loại vị trí quảng cáo"
+
+#: admin/views/placements.php:180
+msgid "Choose a Name"
+msgstr "Chọn một Tên"
+
+#: admin/views/placements.php:182
+msgid "Placement Name"
+msgstr "Tên vị trí"
+
+#: admin/views/placements.php:183
+msgid "Please enter a name for your placement."
+msgstr "Vui lòng điền tên vị trí"
+
+#: admin/views/placements.php:184
+msgid "Choose the Ad or Group"
+msgstr "Chọn nhóm quảng cáo"
+
+#: admin/views/placements.php:185
+msgid "The ad or group that should be displayed."
+msgstr "Quảng cáo hoặc nhóm quảng cáo sẽ được hiển thị."
+
+#: admin/views/placements.php:204
+msgid "Save New Placement"
+msgstr "Lưu vị trí mới."
+
+#: admin/views/post-ad-settings-metabox.php:3
+msgid "Disable ads on this page"
+msgstr "Ẩn trên trang này"
+
+#: admin/views/setting-license.php:27
+msgid "(%d days left)"
+msgstr "(còn lại %d ngày)"
+
+#: admin/views/setting-license.php:31
+msgid "License key"
+msgstr "Key bản quyền"
+
+#: admin/views/setting-license.php:51
+msgid "License key invalid"
+msgstr "Key bản quyền không hợp lệ"
+
+#: admin/views/setting-license.php:54
+msgid "active"
+msgstr "kích hoạt"
+
+#: admin/views/settings-disable-ads.php:3
+msgid "Disable all ads in frontend"
+msgstr "Tắt tất cả các quảng cáo"
+
+#: admin/views/settings-disable-ads.php:4
+msgid "Use this option to disable all ads in the frontend, but still be able to use the plugin."
+msgstr "Sử dụng lựa chọn này để tắt quảng cáo, nhưng vẫn có thể sử dụng plugin."
+
+#: admin/views/settings-disable-ads.php:8
+msgid "Disable ads on 404 error pages"
+msgstr "Vô hiệu hóa quảng cáo trên các trang lỗi 404"
+
+#: admin/views/settings-disable-ads.php:12
+msgid "Disable ads on non-singular pages"
+msgstr "Vô hiệu hóa quảng cáo trên các trang đơn lẻ"
+
+#: admin/views/settings-disable-ads.php:13
+msgid "e.g. archive pages like categories, tags, authors, front page (if a list)"
+msgstr "ví dụ. các trang lưu trữ như danh mục, thẻ, tác giả, trang phía trước (nếu một danh sách)"
+
+#: admin/views/settings-disable-ads.php:16
+msgid "Disable ads on secondary queries"
+msgstr "Vô hiệu hóa quảng cáo trên các truy vấn thứ cấp"
+
+#: admin/views/settings-disable-ads.php:17
+msgid "Secondary queries are custom queries of posts outside the main query of a page. Try this option if you see ads injected on places where they shouldn’t appear."
+msgstr "Truy vấn phụ là các truy vấn tùy chỉnh của bài viết bên ngoài truy vấn chính của một trang. Hãy thử tùy chọn này nếu bạn thấy quảng cáo đang xuất hiện ở những nơi mà nó không nên xuất hiện."
+
+#: admin/views/settings.php:35
+msgid "Save settings on this page"
+msgstr "Lưu các thiết lập trên trang này"
+
+#: admin/views/settings.php:50
+msgid "Advanced Ads on WordPress.org"
+msgstr "Advanced Ads trên WordPress.org"
+
+#: admin/views/settings.php:50
+msgid "Advanced Ads on wp.org"
+msgstr "Advanced Ads trên wp.org"
+
+#: admin/views/settings.php:51
+msgid "the company behind Advanced Ads"
+msgstr "Công ty sản xuất Advanced Ads"
+
+#: admin/views/support.php:46
+msgid "Possible Issues"
+msgstr "Vấn đề có thể xảy ra"
+
+#: admin/views/support.php:53
+msgid "Use the following form to search for solutions in the manual on wpadvancedads.com"
+msgstr "Sử dụng các hình thức sau đây để tìm kiếm các giải pháp trên wpadvancedads.com"
+
+#: admin/views/support.php:56
+msgid "search"
+msgstr "tìm kiếm"
+
+#: admin/views/notices/adblock.php:2
+msgid "Please disable your <strong>AdBlocker</strong> to prevent problems with your ad setup."
+msgstr "Hãy vô hiệu hóa <strong>AdBlocker</strong> để ngăn chặn vấn đề với thiết lập quảng cáo của bạn."
+
+#: admin/views/support.php:11
+msgid "Your <strong>PHP version (%s) is too low</strong>. Advanced Ads is built for PHP 5.3 and higher. It might work, but updating PHP is highly recommended. Please ask your hosting provider for more information."
+msgstr "Phiên bản <strong>PHP (%s) quá cũ </strong>. Advanced Ads được xây dựng cho PHP 5.3 và cao hơn. Nó có thể làm việc, nhưng cập nhật PHP là rất khuyến khích. Xin hỏi nhà cung cấp hosting của bạn để biết thêm thông tin."
+
+#: admin/views/support.php:14
+msgid "Your <strong>website uses cache</strong>. Some dynamic features like ad rotation or visitor conditions might not work properly. Use the cache-busting feature of <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> to load ads dynamically."
+msgstr "Trang <strong>web của bạn sử dụng bộ nhớ cache</strong>. Một số tính năng động như thay đổi quảng cáo hoặc điều kiện khách có thể không hoạt động đúng. Sử dụng tính năng sửa bộ nhớ cache-busting của <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> để tải quảng cáo động."
+
+#: admin/views/support.php:17
+msgid "There is a <strong>new WordPress version available</strong>. Please update."
+msgstr "Có một <strong>phiên bản WordPress mới hơn</strong>. Vui lòng cập nhật."
+
+#: admin/views/support.php:20
+msgid "There are <strong>plugin updates available</strong>. Please update."
+msgstr "Có <strong>Plugin cập nhật mới hơn</strong>. Vui lòng cập nhật."
+
+#: admin/views/support.php:29
+msgid "<strong>Autoptimize plugin detected</strong>. While this plugin is great for site performance, it is known to alter code, including scripts from ad networks. <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> has a build-in support for Autoptimize."
+msgstr "<strong>Autoptimize Plugin đang hoạt động </strong>. Trong khi plugin này là rất tốt cho hiệu suất trang web, nó có thể thay đổi mã, bao gồm kịch bản từ các mạng quảng cáo. <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> có hỗ trợ cho Autoptimize."
+
+#: admin/views/placements.php:43
+msgid "Placement type \"%s\" is missing and was reset to \"default\".<br/>Please check if the responsible add-on is activated."
+msgstr "Loại vị trí \"%s\" thiếu và được đặt lại thành \"mặc định\". <br/> Hãy kiểm tra xem responsible add-on có được kích hoạt."
+
+#: admin/views/placements.php:98
+msgid "Your server is missing an extension. This might break the content injection.<br/>Ignore this warning if everything works fine or else ask your hosting provider to enable <em>mbstring</em>."
+msgstr "Máy chủ của bạn thiếu một plugin. Điều này có thể phá vỡ các phần nội dung thêm vào. <br/>Bỏ qua cảnh báo này nếu tất cả mọi thứ hoạt động tốt hay hỏi nhà cung cấp hosting của bạn để cho phép <em> mbstring </em>."
+
+#: admin/views/placements.php:181
+msgid "The name of the placement is only visible to you. Tip: choose a descriptive one, e.g. <em>Below Post Headline</em>."
+msgstr "Tên của vị trí đó là chỉ hiển thị cho bạn. Mẹo: chọn một mô tả, ví dụ <em>Dưới Tieu đề ài viết</em>."
+
+#: admin/views/ad-submitbox-meta.php:22
+msgid "Year"
+msgstr "Năm"
+
+#: classes/EDD_SL_Plugin_Updater.php:399
+msgid "Error"
+msgstr "Lỗi"
+
+#: admin/views/ad-submitbox-meta.php:24
+msgid "Minute"
+msgstr "Phút"
+
+#: admin/views/setting-license.php:47
+msgid "Activate License"
+msgstr "Kích hoạt bản quyền"
+
+#: admin/includes/class-overview-widgets.php:67
+msgid "Get 2 free add-ons"
+msgstr "Tải thêm hai phần mở rộng miễn phí"
+
+#: admin/views/ad-submitbox-meta.php:21
+msgid "Day"
+msgstr "Ngày"
+
+#: admin/views/ad-submitbox-meta.php:12
+msgid "Month"
+msgstr "Tháng"
+
+#: classes/EDD_SL_Plugin_Updater.php:399
+msgid "You do not have permission to install plugin updates"
+msgstr "Bạn không có quyền đề cài bản cập nhật của plugin"
+
+#: admin/includes/class-ad-groups-list.php:328
+msgid "Delete"
+msgstr "Xóa"
+
+#: admin/views/ad-group-edit.php:59
+msgid "Update"
+msgstr "Cập nhật"
+
+#: admin/views/ad-group-list-form-row.php:12 admin/views/placements.php:24
+msgid "Name"
+msgstr "Tên"
+
+#: admin/includes/class-ad-groups-list.php:318
+#: modules/import-export/classes/import.php:144
+#: modules/import-export/classes/import.php:184
+#: modules/import-export/classes/import.php:560
+#: public/class-advanced-ads.php:621
+msgid "Edit"
+msgstr "Sửa"
+
+#: admin/includes/class-settings.php:267
+msgid "Author"
+msgstr "Tác giả"
+
+#: admin/views/ad-group-list-header.php:4
+msgid "Details"
+msgstr "Chi tiết"
+
+#: admin/views/ad-group-list-ads.php:2 classes/ad-debug.php:118
+#: classes/ad-debug.php:167 classes/ad-debug.php:169
+#: public/class-advanced-ads.php:618
+msgid "Ad"
+msgstr "Quảng cáo"
+
+#: admin/includes/class-meta-box.php:65 classes/ad-debug.php:152
+msgid "Display Conditions"
+msgstr "Điều kiện hiển thị"
+
+#: admin/includes/class-meta-box.php:68 classes/ad-debug.php:239
+msgid "Visitor Conditions"
+msgstr "Điều kiện khách truy cập"
+
+#: admin/views/ad-group-list-header.php:3 classes/ad_type_group.php:30
+msgid "Ad Group"
+msgstr "Nhóm quảng cáo"
+
+#: classes/display-conditions.php:70 includes/array_ad_conditions.php:40
+msgid "Choose the public post types on which to display the ad."
+msgstr "Chọn loại bài viết đã xuất bản để hiển thị quảng cáo."
+
+#: classes/display-conditions.php:77 includes/array_ad_conditions.php:58
+msgid "Choose on which individual posts, pages and public post type pages you want to display or hide ads."
+msgstr "Chọn các bài viết đơn lẻ, trang đơn lẻ và loại trang bạn muốn hiển thị/ẩn quảng cáo."
+
+#: classes/display-conditions.php:415
+msgctxt "display the terms search field on ad edit page"
+msgid "add more terms"
+msgstr "thêm điều kiện"
+
+#: classes/display-conditions.php:417
+msgid "term name or id"
+msgstr "tên điều kiện hoặc id"
+
+#: admin/includes/class-ad-groups-list.php:164
+msgid "Ad weight"
+msgstr "Trọng số hiển thị"
+
+#: admin/includes/class-ad-groups-list.php:222
+msgid "all published ads are displayed"
+msgstr "tất cả quảng cáo xuất bản được hiển thị"
+
+#: admin/includes/class-ad-groups-list.php:224
+msgid "up to %d ads displayed"
+msgstr "tối đa %d quảng cáo hiển thị"
+
+#: admin/includes/class-ad-groups-list.php:227
+msgid "No ads assigned"
+msgstr "không có quảng cáo"
+
+#: admin/includes/class-ad-groups-list.php:294
+msgid "Random ads"
+msgstr "Quảng cáo ngẫu nhiên"
+
+#: admin/includes/class-ad-groups-list.php:295
+msgid "Display random ads based on ad weight"
+msgstr "Hiển thị ngẫu nhiên dựa trên trọng số"
+
+#: admin/includes/class-ad-groups-list.php:298
+msgid "Ordered ads"
+msgstr "Quảng cáo được mua"
+
+#: admin/includes/class-ad-groups-list.php:299
+msgid "Display ads with the highest ad weight first"
+msgstr "Hiển thị quảng cáo có trọng số lớn nhất trước"
+
+#: admin/includes/class-ad-groups-list.php:319
+msgid "Usage"
+msgstr "Sử dụng"
+
+#: admin/includes/class-ad-groups-list.php:349
+#: admin/includes/class-ad-groups-list.php:399
+msgid "Invalid Ad Group"
+msgstr "Nhóm không hợp lệ"
+
+#: admin/includes/class-ad-groups-list.php:354
+#: admin/includes/class-ad-groups-list.php:404
+msgid "You don’t have permission to change the ad groups"
+msgstr "Bạn không có quyền đổi nhóm quảng cáo"
+
+#: admin/includes/class-ad-type.php:80 admin/includes/class-ad-type.php:85
+msgid "Ad Details"
+msgstr "Chi tiết quảng cáo"
+
+#: admin/includes/class-ad-type.php:183
+msgid "expired"
+msgstr "hết hạn"
+
+#: admin/includes/class-ad-type.php:500 admin/includes/class-ad-type.php:501
+msgid "Ad updated."
+msgstr "Quảng cáo đã cập nhật."
+
+#. translators: %s: date and time of the revision
+#: admin/includes/class-ad-type.php:503
+msgid "Ad restored to revision from %s"
+msgstr "Phục hồi quảng cáo từ %s"
+
+#: admin/includes/class-ad-type.php:504 admin/includes/class-ad-type.php:505
+msgid "Ad saved."
+msgstr "Quảng cáo đã lưu."
+
+#: admin/includes/class-ad-type.php:506
+msgid "Ad submitted."
+msgstr "Quảng cáo đã gửi."
+
+#: admin/includes/class-ad-type.php:508
+msgid "Ad scheduled for: <strong>%1$s</strong>."
+msgstr "Quảng cáo đã lên lịch: <strong>%1$s</strong>."
+
+#. translators: Publish box date format, see http://php.net/date
+#: admin/includes/class-ad-type.php:510
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: admin/includes/class-ad-type.php:512
+msgid "Ad draft updated."
+msgstr "Bản thảo đã được cập nhật"
+
+#: admin/includes/class-licenses.php:101
+msgid "Error while trying to register the license. Please contact support."
+msgstr "Lỗi trong khi cố gắng để đăng ký bản quyền. Vui lòng liên hệ hỗ trợ."
+
+#: admin/includes/class-menu.php:192
+msgid "You attempted to edit an ad group that doesn&#8217;t exist. Perhaps it was deleted?"
+msgstr "Bạn đang cố sửa một nhóm quảng cáo không tồn tại?"
+
+#: admin/includes/class-meta-box.php:53
+msgid "Ad Type"
+msgstr "Loại quảng cáo"
+
+#: admin/includes/class-meta-box.php:59
+msgid "Ad Parameters"
+msgstr "Tham số quảng cáo"
+
+#: admin/includes/class-meta-box.php:62
+msgid "Layout / Output"
+msgstr "Hình dạng/ Kết quả"
+
+#: admin/includes/class-meta-box.php:222
+msgid "Ad Settings"
+msgstr "Cài đặt quảng cáo"
+
+#: admin/includes/class-meta-box.php:324 admin/views/overview.php:6
+msgid "Ads Dashboard"
+msgstr "Bảng điều khiển quảng cáo"
+
+#: admin/includes/class-meta-box.php:415
+msgid "From the ad optimization universe"
+msgstr "Từ việc tối ưu quảng cáo"
+
+#: admin/includes/class-meta-box.php:424
+msgid "Advanced Ads Tutorials"
+msgstr "Hướng dẫn sử dung Quảng cáo nâng cao"
+
+#: admin/includes/class-meta-box.php:335
+msgid "%d ads – <a href=\"%s\">manage</a> - <a href=\"%s\">new</a>"
+msgstr "%d ads – <a href=\"%s\">quản lý</a> - <a href=\"%s\">mới</a>"
+
+#: admin/includes/class-meta-box.php:347
+msgid "plugin manual and homepage"
+msgstr "in trang hướng dẫn và trang chủ"
+
+#: admin/includes/class-meta-box.php:354
+msgid "Get the tutorial via email"
+msgstr "Nhận hướng dẫn vào email"
+
+#: admin/includes/class-meta-box.php:361
+msgid "Get AdSense tips via email"
+msgstr "Nhận hướng dẫn quảng cáo AdSense vào email"
+
+#: admin/includes/class-notices.php:413
+msgid "You don’t seem to have an email address. Please use <a href=\"%s\" target=\"_blank\">this form</a> to sign up."
+msgstr "Bạn không có email. Sử dụng <a href=\"%s\" target=\"_blank\">mẫu này</a> để đăng ký."
+
+#: admin/includes/class-notices.php:431
+msgid "How embarrassing. The email server seems to be down. Please try again later."
+msgstr "Thật đáng ngại. Máy chủ email có vẻ là đang có vấn đề. Vui lòng thử lại sau."
+
+#: admin/includes/class-overview-widgets.php:20
+msgid "Manual and Support"
+msgstr "Hỗ trợ"
+
+#: admin/includes/class-overview-widgets.php:72
+msgid "Join now"
+msgstr "Tham gia"
+
+#: admin/includes/notices.php:30 admin/views/notices/inline.php:3
+#: admin/views/notices/subscribe.php:3
+msgid "Subscribe me now"
+msgstr "Đăng ký ngay"
+
+#: admin/includes/class-overview-widgets.php:56
+msgid "Create your first ad"
+msgstr "Tạo quảng cáo đầu tiên"
+
+#: admin/includes/class-overview-widgets.php:18
+msgid "Next steps"
+msgstr "Tiếp theo"
+
+#: admin/includes/class-overview-widgets.php:105
+msgid "<a href=\"%s\" target=\"_blank\">Manual</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Hướng dẫn</a>"
+
+#: admin/includes/class-overview-widgets.php:107
+msgid "Thank the developer with a &#9733;&#9733;&#9733;&#9733;&#9733; review on <a href=\"%s\" target=\"_blank\">wordpress.org</a>"
+msgstr "Cảm ơn các nhà phát triển với một nhận xét &#9733;&#9733;&#9733;&#9733;&#9733; trên <a href=\"%s\" target=\"_blank\"> wordpress.org </a>"
+
+#: admin/includes/class-settings.php:47 admin/views/settings.php:12
+msgid "General"
+msgstr "Chung"
+
+#: admin/includes/class-settings.php:59 admin/includes/class-settings.php:208
+msgid "Licenses"
+msgstr "Bản quyền"
+
+#: admin/includes/class-settings.php:70
+msgid "Disable ads"
+msgstr "Hủy tính năng quảng cáo"
+
+#: admin/includes/class-settings.php:78
+msgid "Hide ads for logged in users"
+msgstr "Ẩn quảng cáo khi người dùng đăng nhập"
+
+#: admin/includes/class-settings.php:86
+msgid "Use advanced JavaScript"
+msgstr "Sử dụng JavaScript nâng cao"
+
+#: admin/includes/class-settings.php:94
+msgid "Unlimited ad injection"
+msgstr "Không hạn chế việc thêm vào quảng cáo"
+
+#: admin/includes/class-settings.php:102
+msgid "Priority of content injection filter"
+msgstr "Ưu tiên của bộ lọc thêm vào nội dung"
+
+#: admin/includes/class-settings.php:118
+msgid "Hide ads from bots"
+msgstr "Ẩn quảng cáo khỏi các chương trình quét tự động"
+
+#: admin/includes/class-settings.php:126
+msgid "Disable notices"
+msgstr "Ẩn thông báo"
+
+#: admin/includes/class-settings.php:134
+msgid "ID prefix"
+msgstr "Tiền tố ID"
+
+#: admin/includes/class-settings.php:142
+msgid "Remove Widget ID"
+msgstr "Xóa ID của Widget"
+
+#: admin/includes/class-settings.php:264
+msgid "(display to all)"
+msgstr "(hiển thị tới tất cả)"
+
+#: admin/includes/class-settings.php:265
+msgid "Subscriber"
+msgstr "Người đăng kí"
+
+#: admin/includes/class-settings.php:266
+msgid "Contributor"
+msgstr "Người đóng góp"
+
+#: admin/includes/class-settings.php:268
+msgid "Editor"
+msgstr "Biên tập viên"
+
+#: admin/includes/class-settings.php:269
+msgid "Admin"
+msgstr "Quản trị viên"
+
+#: admin/includes/class-settings.php:277
+msgid "Choose the lowest role a user must have in order to not see any ads."
+msgstr "Chọn vai trò thấp nhất một người phải có để không nhìn thấy quảng cáo."
+
+#: admin/includes/class-settings.php:294
+msgid "Enable advanced JavaScript functions (<a href=\"%s\" target=\"_blank\">here</a>). Some features and add-ons might override this setting if they need features from this file."
+msgstr "Kích hoạt chức năng JavaScript nâng cao (<a href=\"%s\" target=\"_blank\"> tại đây </a>). Một số tính năng và tiện ích có thể ghi đè thiết lập này nếu chúng cần tính năng này từ file hiện tại."
+
+#: admin/includes/class-settings.php:332
+msgid "Play with this value in order to change the priority of the injected ads compared to other auto injected elements in the post content."
+msgstr "Thay đổi giá trị này để thay đổi các ưu tiên của các quảng cáo so với các yếu tố tự động thêm khác trong nội dung bài viết."
+
+#: admin/includes/class-settings.php:359
+msgid "Hide ads from crawlers, bots and empty user agents. Also prevents counting impressions for bots when using the <a href=\"%s\" target=\"_blank\">Tracking Add-On</a>."
+msgstr "Ẩn các quảng cáo khỏi các hệ thống quét, chương trình và người dùng ảo. Ngăn cản việc tính hiển thị cho chương trình khi sử dụng <a href=\"%s\" target=\"_blank\"> Tracking Add-On </a>."
+
+#: admin/includes/class-settings.php:360
+msgid "Disabling this option only makes sense if your ads contain content you want to display to bots (like search engines) or your site is cached and bots could create a cached version without the ads."
+msgstr "Vô hiệu hóa tùy chọn này chỉ có ý nghĩa nếu quảng cáo của bạn chứa nội dung mà bạn muốn hiển thị cho chương trình (như công cụ tìm kiếm) hoặc trang web của bạn được lưu trữ (cached) và chương trình có thể tạo ra một phiên bản cache mà không có quảng cáo."
+
+#: admin/includes/class-settings.php:373
+msgid "Disable internal notices like tips, tutorials, email newsletters and update notices. Disabling notices is recommended if you run multiple blogs with Advanced Ads already."
+msgstr "Vô hiệu hóa các thông báo nội bộ như lời khuyên, hướng dẫn, bản tin email và cập nhật các thông báo. Vô hiệu hóa các thông báo được khuyến khích nếu bạn chạy nhiều blog có cài đặt Advanced Ads."
+
+#: admin/includes/class-settings.php:411
+msgid "Remove the ID attribute from widgets in order to not make them an easy target of ad blockers."
+msgstr "Hủy bỏ các thuộc tính ID từ Widget để hạn chế rủi ro bị chặn bởi ad blockers."
+
+#: admin/includes/notices.php:16
+msgid "Yes, send it"
+msgstr "Vâng, hãy gửi nó"
+
+#: admin/includes/notices.php:23
+msgid "Add me now"
+msgstr "Thêm tôi vào"
+
+#: admin/includes/notices.php:47
+msgid "<strong>Advanced Ads</strong> license(s) expired. Support and updates are disabled. Please visit <a href=\"%s\"> the license page</a> for more information."
+msgstr "Bản quyền <strong>Advanced Ads</strong> đã hết hạn. Bạn không nhận được hỗ trợ và cập nhật. Hãy truy cập  <a href=\"%s\"> trang bản quyền</a> để xem thêm."
+
+#: admin/views/ad-display-metabox.php:76
+msgid "If you want to display the ad everywhere, don't do anything here. "
+msgstr "Nếu bạn muốn hiển thị quảng cáo ở khắp mọi nơi, không làm bất cứ điều gì ở đây."
+
+#: admin/views/ad-group-edit.php:40
+msgid "An id-like string with only letters in lower case, numbers, and hyphens."
+msgstr "Một chuỗi id giống như chỉ có chữ cái in thường, số, và dấu gạch nối."
+
+#: admin/views/ad-group-edit.php:57
+msgid "Create new Ad Group"
+msgstr "Tạo nhóm quảng cáo mới"
+
+#: admin/views/ad-group-list-ads.php:3
+msgid "weight"
+msgstr "trọng số"
+
+#: admin/views/ad-group-list-form-row.php:41 admin/views/placements.php:23
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:55
+msgid "Type"
+msgstr "Loại"
+
+#: admin/views/ad-group-list-form-row.php:51
+msgctxt "option to display all ads in an ad groups"
+msgid "all"
+msgstr "tất cả"
+
+#: admin/views/ad-group-list-form-row.php:59
+msgid "Number of ads that are visible at the same time"
+msgstr "Số quảng cáo rằng có thể nhìn thấy cùng một lúc"
+
+#: admin/views/ad-group-list-row.php:8 admin/views/ad-info.php:3
+#: admin/views/placements.php:65
+msgid "shortcode"
+msgstr "shortcode"
+
+#: admin/views/ad-group-list-row.php:11
+msgid "template"
+msgstr "mẫu"
+
+#: admin/views/ad-group-list-row.php:14
+msgid "Learn more about using groups in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "Tìm hiểu thêm về việc sử dụng các nhóm trong <a href=\"%s\" target=\"_blank\"> hướng dẫn </a>."
+
+#: admin/views/ad-group-list-row.php:19
+msgid "Type: %s"
+msgstr "Loại: %s"
+
+#: admin/views/ad-group-list-row.php:20
+msgid "ID: %s"
+msgstr "ID: %s"
+
+#: admin/includes/notices.php:29
+msgid "Learn more about how and <strong>how much you can earn with AdSense</strong> and Advanced Ads from my dedicated newsletter."
+msgstr "Tìm hiểu thêm về cách thức và <strong> và số tiền bạn có thể kiếm được với AdSense </strong> và Advanced Ads từ bản tin gửi qua email của tôi."
+
+#: admin/includes/class-settings.php:291
+msgid "<strong>notice: </strong>the file is currently enabled by an add-on that needs it."
+msgstr "<strong> thông báo: </strong> các tập tin hiện đang được kích hoạt do một plugin nào đó sử dụng."
+
+#: admin/includes/class-settings.php:390
+msgid "Prefix of class or id attributes in the frontend. Change it if you don’t want <strong>ad blockers</strong> to mark these blocks as ads.<br/>You might need to <strong>rewrite css rules afterwards</strong>."
+msgstr "Tiền tố của lớp hoặc id thuộc tính trong giao diện. Thay đổi nếu bạn không muốn <strong> ad blockers </strong> đánh dấu các khối như quảng cáo. <br/> Bạn có thể cần phải <strong> viết lại css sau đó </strong>."
+
+#: admin/includes/notices.php:15
+msgid "Thank you for activating <strong>Advanced Ads</strong>. Would you like to receive the first steps via email?"
+msgstr "Cảm ơn bạn đã kích hoạt <strong> Advanced Ads </strong>. Bạn có muốn nhận được những hướng dẫn qua email?"
+
+#: admin/includes/notices.php:22
+msgid "Thank you for using <strong>Advanced Ads</strong>. Stay informed and receive <strong>2 free add-ons</strong> for joining the newsletter."
+msgstr "Cảm ơn bạn đã sử dụng <strong> Advanced Ads </strong>. Nhận thông báo miễn phí và nhận <strong> 2 add-ons </strong> bằng cách đăng ký bản tin."
+
+#: admin/includes/class-notices.php:436
+msgid "Please check your email (%s) for the confirmation message. If you didn’t receive one or want to use another email address then please use <a href=\"%s\" target=\"_blank\">this form</a> to sign up."
+msgstr "Hãy kiểm tra email của bạn (%s) và xác nhận. Nếu bạn không nhận được mail hoặc muốn sử dụng địa chỉ email khác thì vui lòng sử dụng <a href=\"%s\" target=\"_blank\"> biểu mẫu này </a> để đăng ký."
+
+#: admin/includes/class-ad-type.php:205
+msgid "%s ad updated."
+msgid_plural "%s ads updated."
+msgstr[0] "%s quảng cáo đã cập nhật."
+
+#: admin/includes/class-ad-type.php:207
+msgid "%s ad permanently deleted."
+msgid_plural "%s ads permanently deleted."
+msgstr[0] "%s quảng cáo đã xoá"
+
+#: admin/includes/class-ad-type.php:206
+msgid "%s ad not updated, somebody is editing it."
+msgid_plural "%s ads not updated, somebody is editing them."
+msgstr[0] "%s quảng cáo không được cập nhật, ai đó đang sửa"
+
+#: admin/includes/class-ad-type.php:208
+msgid "%s ad moved to the Trash."
+msgid_plural "%s ads moved to the Trash."
+msgstr[0] "%s quảng cáo đã xoá"
+
+#: admin/views/ad-group-edit.php:45
+msgctxt "Taxonomy Description"
+msgid "Description"
+msgstr "Mô tả"
+
+#: admin/views/ad-group-edit.php:38
+msgctxt "Taxonomy Slug"
+msgid "Slug"
+msgstr "Đường dẫn"
+
+#: admin/views/ad-group-edit.php:33
+msgctxt "Taxonomy Name"
+msgid "Name"
+msgstr "Tên"
+
+#: admin/views/ad-group-edit.php:14
+msgid "You did not select an item for editing."
+msgstr "Bạn chưa chọn cái cần sửa"
+
+#: admin/includes/class-overview-widgets.php:68
+msgid "Get the first steps and more tutorials to your inbox"
+msgstr "Nhận email hướng dẫn"
+
+#: admin/includes/class-licenses.php:158
+msgid "License is invalid. Reason: %s"
+msgstr "Bản quyền không hợp lệ. Lý do: %s"
+
+#: admin/includes/class-ad-type.php:209
+msgid "%s ad restored from the Trash."
+msgid_plural "%s ads restored from the Trash."
+msgstr[0] "%s quảng cáo đã được khôi phục"
+
+#: admin/includes/class-menu.php:55 admin/includes/class-menu.php:68
+#: admin/includes/class-menu.php:72
+msgid "Overview"
+msgstr "Tổng quan"
+
+#: admin/class-advanced-ads-admin.php:357 admin/includes/class-menu.php:97
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: admin/includes/class-menu.php:89
+#: admin/includes/class-shortcode-creator.php:98 admin/views/placements.php:18
+#: classes/widget.php:69 modules/import-export/views/page.php:25
+msgid "Placements"
+msgstr "Vị trí đặt"
+
+#: admin/includes/class-shortcode-creator.php:91
+#: admin/views/placements-item.php:4 admin/views/placements.php:189
+#: classes/widget.php:76
+msgid "Ad Groups"
+msgstr "Nhóm quảng cáo"
+
+#: admin/includes/class-menu.php:62
+#: admin/includes/class-shortcode-creator.php:84
+#: admin/views/ad-group-list-form-row.php:68
+#: admin/views/ad-group-list-header.php:5 admin/views/placements-item.php:11
+#: admin/views/placements.php:196 classes/widget.php:83
+#: modules/import-export/views/page.php:23 public/class-advanced-ads.php:617
+msgid "Ads"
+msgstr "Quảng cáo"
+
+#: modules/import-export/views/page.php:24 public/class-advanced-ads.php:590
+msgid "Groups"
+msgstr "Nhóm"
+
+#: admin/includes/class-menu.php:89
+msgid "Ad Placements"
+msgstr "Đặt quảng cáo"
+
+#: admin/includes/class-menu.php:93
+msgid "Advanced Ads Settings"
+msgstr "Cài đặt Advanced Ads"
+
+#: admin/includes/class-menu.php:93
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/includes/class-menu.php:179 admin/includes/class-menu.php:206
+msgid "Sorry, you are not allowed to access this feature."
+msgstr "Xin lỗi, bạn không có quyền truy cập tính năng này."
