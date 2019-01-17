@@ -35,7 +35,7 @@
   <div id="page" class="site">
     <a class="skip-link screen-reader-text" href="#content">
       <?php esc_html_e('Skip to content', 'nam-coi-theme'); ?></a>
-    <header class="container-fluid Header border-bottom shadow">
+    <header class="container-fluid Header border-bottom shadow sticky-top bg-white">
       <div class="row">
         <div class="col-12">
           <nav class="navbar navbar-expand-md justify-content-between">
