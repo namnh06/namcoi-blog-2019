@@ -1,61 +1,75 @@
 .News__Col {
-  display: table-cell;
-}
-
+  display: table-cell; }
 
 .News__Image--second {
-  background: url('../images/2.jpg');
-}
+  background: url("../images/2.jpg"); }
 
 .News__Image--third {
-  background: url('../images/3.jpg');
-}
+  background: url("../images/3.jpg"); }
 
 .News__Image--fourth {
-  background: url('../images/4.jpg');
-}
+  background: url("../images/4.jpg"); }
 
 .News__Image--fifth {
-  background: url('../images/5.jpg');
-}
+  background: url("../images/5.jpg"); }
 
 .News__Image--sixth {
-  background: url('../images/6.jpg');
-}
+  background: url("../images/6.jpg"); }
 
 .News__Image--seventh {
-  background: url('../images/7.jpg');
-}
+  background: url("../images/7.jpg"); }
 
 .News__Image--eighth {
-  background: url('../images/8.jpg');
-}
+  background: url("../images/8.jpg"); }
 
 .News__Image--ninth {
-  background: url('../images/9.jpg');
-}
+  background: url("../images/9.jpg"); }
 
 .News__Image--tenth {
-  background: url('../images/10.jpg');
-}
+  background: url("../images/10.jpg"); }
 
 .News__Image--eleventh {
-  background: url('../images/11.jpg');
-}
+  background: url("../images/11.jpg"); }
 
 .News__Image--twelveth {
-  background: url('../images/12.jpg');
-}
+  background: url("../images/12.jpg"); }
 
 .News__Image {
   height: 150px;
   background-position: center;
   background-size: cover;
-  filter: brightness(50%);
-}
+  filter: brightness(50%); }
 
-@media screen and (max-width: 767px) {
-  .Navigation {
-    display: none;
-  }
-}
+.Sticky-Post {
+  max-height: 500px; }
+  .Sticky-Post__Card-Deck--flex {
+    flex-direction: column; }
+  .Sticky-Post__Card-Deck__Card--mb {
+    margin-bottom: 15px !important; }
+  .Sticky-Post__Card-Deck__Card--bi {
+    background-size: 0%; }
+  .Sticky-Post__Card-Deck__Card__Card-Body {
+    color: dark; }
+  .Sticky-Post__Card-Deck__Card__Card-Footer {
+    color: dark;
+    background-color: transparent;
+    border-top: 0; }
+
+@media (min-width: 768px) {
+  /* OVERRIDE BOOTSTRAP 4 */
+  .Sticky-Post__Card-Deck--flex {
+    flex-direction: row; }
+  .Sticky-Post__Card-Deck__Card--mb {
+    margin-bottom: 0 !important; }
+  .Sticky-Post__Card-Deck__Card--bi {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center; }
+  .Sticky-Post__Card-Deck__Card__Card-Body {
+    color: white; }
+  .Sticky-Post__Card-Deck__Card__Card-Footer {
+    color: white;
+    background-color: transparent;
+    border-top: 0; } }
+
+/*# sourceMappingURL=styles.css.map */

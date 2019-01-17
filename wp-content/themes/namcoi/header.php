@@ -43,7 +43,7 @@
               aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <i class="fas fa-bars"></i>
             </button>
-            <div class="navbar-brand mx-0 d-flex justify-content-center align-items-center">
+            <div class="navbar-brand d-flex justify-content-center align-items-center mx-0 mr-sm-5">
               <a href="<?php bloginfo('url'); ?>" class="btn btn-link px-0 ">
                 <h1 class="text-center my-n1 text-uppercase text-dark">
                   <?php bloginfo('name'); ?>
@@ -67,7 +67,7 @@
               } ?>
               </ul>
             </div>
-            <form class="form-inline my-2 my-lg-0">
+            <form class="form-inline my-2 my-md-0">
               <a class="btn btn-link" id="js-navigation-button">
                 <i class="fas fa-search"></i>
               </a>
