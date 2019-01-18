@@ -26,6 +26,9 @@
   <!-- BOOTSTRAP CORE -->
   <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/assets/font-awesome/css/all.min.css">
+  <!-- GOOGLE FONT -->
+  <link href="https://fonts.googleapis.com/css?family=Sarabun" rel="stylesheet">
+  <!-- CUSTOMIZE CSS -->
   <link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/assets/css/styles.css">
   <?php wp_head(); ?>
 </head>
