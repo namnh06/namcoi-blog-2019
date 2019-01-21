@@ -2,6 +2,14 @@ body {
   font-family: 'Sarabun', sans-serif;
 }
 
+/**
+ * HELPER
+ */
+
+.Text-Decoration-None {
+  text-decoration: none !important;
+}
+
 .News__Col {
   display: table-cell;
 }
@@ -59,18 +67,22 @@ body {
 
 .Sticky-Post {
   max-height: 500px;
+
   &__Card-Deck {
     &__Card {
       &--mb {
         margin-bottom: 15px !important;
       }
+
       &--bi {
         background-size: 0%;
       }
+
       &__Card {
         &-Body {
           color: dark;
         }
+
         &-Footer {
           color: dark;
           background-color: transparent;
@@ -81,23 +93,102 @@ body {
   }
 }
 
+
+
+.Category-Section {
+  &__Card-Deck {
+    &__Card {
+      &__Card-Image-Top {
+        &__Image {
+          &__Background {
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: top;
+          }
+        }
+      }
+    }
+  }
+}
+
+/**
+ * TEMPLATE-PARTS/PAGINATION.PHP
+ */
+.Pagination {
+  & ul {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+
+    & li {
+      list-style-type: none;
+      padding: 1rem 0.5rem;
+
+      & span.current {
+        background: #343a40;
+        font-weight: bolder;
+        color: #fff;
+        padding: 1rem;
+      }
+
+      & a {
+        text-decoration: none;
+        color: #343a40;
+        font-weight: bold;
+        padding: 1rem;
+
+        &:hover {
+          background: #6c757d;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
+/**
+ * POST
+ */
+.Post {
+  &__Title {
+    &__Anchor {
+      color: #000;
+
+      &:hover,
+      &:visited {
+        color: #000;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
 @media (min-width: 768px) {
+
   /* OVERRIDE BOOTSTRAP 4 */
   .Sticky-Post {
     &__Card-Deck {
       &__Card {
+        &__Second-Part {
+          width: 100% !important;
+        }
+
         &--mb {
           margin-bottom: 0 !important;
         }
+
         &--bi {
           background-size: contain;
           background-repeat: no-repeat;
           background-position: center;
         }
+
         &__Card {
           &-Body {
             color: white;
           }
+
           &-Footer {
             color: white;
             background-color: transparent;
@@ -106,20 +197,39 @@ body {
         }
       }
     }
-    &__Hot-News{
-      &__List{
+
+    &__Hot-News {
+      &__List {
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-        &:first-child{
+
+        &:first-child {
           border-radius: 0;
         }
-        &:last-child{
+
+        &:last-child {
           border-radius: 0 !important;
         }
       }
-      &__Header{
-        background-image: linear-gradient(to bottom, rgba(0,0,0,0.1),rgba(255,255,255,0.5));
+
+      &__Header {
+        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.5));
+      }
+    }
+  }
+
+  /**
+ * POST
+ */
+  .Post {
+    &__Title {
+      &__Anchor {
+        color: #fff !important;
+
+        &:hover {
+          color: #fff !important;
+        }
       }
     }
   }
