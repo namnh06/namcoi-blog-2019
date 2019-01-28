@@ -93,8 +93,6 @@ body {
   }
 }
 
-
-
 .Category-Section {
   &__Card-Deck {
     &__Card {
@@ -165,7 +163,6 @@ body {
 }
 
 @media (min-width: 768px) {
-
   /* OVERRIDE BOOTSTRAP 4 */
   .Sticky-Post {
     &__Card-Deck {
@@ -214,7 +211,11 @@ body {
       }
 
       &__Header {
-        background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.5));
+        background-image: linear-gradient(
+          to bottom,
+          rgba(0, 0, 0, 0.1),
+          rgba(255, 255, 255, 0.5)
+        );
       }
     }
   }
@@ -222,15 +223,15 @@ body {
   /**
  * POST
  */
-  .Post {
-    &__Title {
-      &__Anchor {
-        color: #fff !important;
+  // .Post {
+  //   &__Title {
+  //     &__Anchor {
+  //       color: #fff !important;
 
-        &:hover {
-          color: #fff !important;
-        }
-      }
-    }
-  }
+  //       &:hover {
+  //         color: #fff !important;
+  //       }
+  //     }
+  //   }
+  // }
 }
